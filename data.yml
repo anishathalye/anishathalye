@@ -1,0 +1,32 @@
+- name: Apps
+  repos:
+    - dotbot
+    - git-remote-dropbox
+    - porcupine
+    - lumen
+    - seashells
+    - gavel
+    - offix
+
+- name: Machine Learning
+  repos:
+    - neural-style
+    - obfuscated-gradients
+    - neural-hash-collider
+    - ribosome
+    - imagenet-simple-labels
+
+- name: Libraries
+  repos:
+    - periscope
+    - synox
+
+- name: Design
+  repos:
+    - gemini
+    - auriga
+
+- name: Misc
+  repos:
+    - dotfiles
+    - missing-semester/missing-semester
