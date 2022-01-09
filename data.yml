@@ -2,7 +2,7 @@
   repos:
     - dotbot
     - git-remote-dropbox
-    - porcupine
+    - periscope
     - lumen
     - seashells
     - gavel
@@ -18,7 +18,7 @@
 
 - name: Libraries
   repos:
-    - periscope
+    - porcupine
     - synox
 
 - name: Design
