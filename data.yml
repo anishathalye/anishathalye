@@ -29,4 +29,9 @@
 - name: Misc
   repos:
     - dotfiles
+    - proof-html
+    - hubot-group
+    - hubot-shortcut
+    - hubot-conf
     - missing-semester/missing-semester
+    - bijection/sistine
