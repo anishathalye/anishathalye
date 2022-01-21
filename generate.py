@@ -55,11 +55,6 @@ def main():
                 fout.write('\n')
 
 
-def is_dark(color):
-    l = 0.2126 * int(color[0:2], 16) + 0.7152 * int(color[2:4], 16) + 0.0722 * int(color[4:6], 16)
-    return False if l / 255 > 0.65 else True
-
-
 if __name__ == '__main__':
     main()
 
