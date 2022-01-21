@@ -40,12 +40,14 @@ def main():
                 display_name = display_name.replace('/', '\u2060/\u2060')
                 link = '[**{}**](https://github.com/{})'.format(display_name, repo_name)
                 language_logo = '![{}]({})'.format(repo.language, languages[repo.language]) if repo.language else ''
-                stars = repo.watchers
-                if stars >= 1000:
-                    stars = '{:.1f}k'.format(round(stars/100)/10)
-                fout.write('| {} <br /> \u2605\u2060 \u2060{} | {} | {} |\n'.format(
+                if repo.watchers >= 1000:
+                    stars = '{:.1f}k'.format(round(repo.watchers/100)/10)
+                else:
+                    stars = '{:d}'.format(repo.watchers)
+                fout.write('| {} <br /> \u2605\u2060 \u2060{}{} | {} | {} |\n'.format(
                     link,
                     stars,
+                    ' <!-- {} -->'.format(repo.watchers) if repo.watchers >= 1000 else '',
                     language_logo,
                     repo.description
                 ))
