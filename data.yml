@@ -28,10 +28,10 @@
 
 - name: Misc
   repos:
+    - missing-semester/missing-semester
     - dotfiles
     - proof-html
     - hubot-group
     - hubot-shortcut
     - hubot-conf
-    - missing-semester/missing-semester
     - bijection/sistine
