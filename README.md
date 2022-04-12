@@ -19,7 +19,7 @@
 | [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠613 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |
 | [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠102 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🌱 |
 | [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠77 |  | Simpler human-readable labels for ImageNet 🏷 |
-| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠2.8k <!-- 2833 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard package for data-centric AI and machine learning with messy, real-world data and labels. Works with most datasets and models. |
+| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠2.8k <!-- 2833 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels |
 
 <h3 align="center">Libraries</h3>
 
