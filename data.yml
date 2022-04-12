@@ -15,6 +15,7 @@
     - neural-hash-collider
     - ribosome
     - imagenet-simple-labels
+    - cleanlab/cleanlab
 
 - name: Libraries
   repos:
