@@ -27,6 +27,13 @@
     - gemini
     - auriga
 
+- name: Formal Verification
+  repos:
+    - knox
+    - knox-hsm
+    - rtlv
+    - notary
+
 - name: Misc
   repos:
     - missing-semester/missing-semester
