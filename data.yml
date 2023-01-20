@@ -37,6 +37,9 @@
 - name: Misc
   repos:
     - missing-semester/missing-semester
+    - missing-semester/videos
+    - dcai-course/dcai-course
+    - dcai-course/dcai-lab
     - dotfiles
     - proof-html
     - micro-wwvb
