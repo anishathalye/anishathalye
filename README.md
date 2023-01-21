@@ -49,6 +49,9 @@
 | | | |
 |---|---|---|
 | [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠3.6k <!-- 3577 --> | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
+| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠272 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠1 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 |
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠5 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI |
 | [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠612 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
 | [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠29 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML using HTMLProofer ✔️ |
 | [**micro⁠-⁠wwvb**](https://github.com/anishathalye/micro-wwvb) <br /> ★⁠ ⁠5 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | A tiny WWVB station 📡 |
