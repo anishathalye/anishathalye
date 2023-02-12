@@ -51,8 +51,8 @@ def main():
                     language_logo,
                     repo.description
                 ))
-            if i < len(data)-1:
-                fout.write('\n')
+            fout.write('\n')
+        fout.write('<!-- followers: {} -->\n'.format(g.get_user(args.default_user).followers))
 
 
 if __name__ == '__main__':
