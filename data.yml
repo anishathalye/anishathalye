@@ -42,6 +42,7 @@
     - dcai-course/dcai-course
     - dcai-course/dcai-lab
     - dotfiles
+    - dotfiles-local
     - proof-html
     - micro-wwvb
     - hubot-group
