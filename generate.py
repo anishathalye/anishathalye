@@ -32,7 +32,12 @@ def main():
                     if '/' not in repo_name:
                         repo_name = '{}/{}'.format(args.default_user, repo_name)
                     repo = g.get_repo(repo_name)
-                    fout.write('<!-- {}: {} -->\n'.format(display_name, repo.watchers))
+                    fout.write('<!-- {} - stars: {}, forks: {}, watching: {} -->\n'.format(
+                        display_name,
+                        repo.stargazers_count,
+                        repo.forks_count,
+                        repo.watchers_count
+                    ))
                 fout.write('\n')
                 continue
             # visible section
@@ -51,21 +56,30 @@ def main():
                 display_name = display_name.replace('/', '\u2060/\u2060')
                 link = '[**{}**](https://github.com/{})'.format(display_name, repo_name)
                 language_logo = '![{}]({})'.format(repo.language, languages[repo.language]) if repo.language else ''
-                if repo.watchers >= 1000:
-                    stars = '{:.1f}k'.format(round(repo.watchers/100)/10)
+                if repo.stargazers_count >= 1000:
+                    stars = '{:.1f}k'.format(round(repo.stargazers_count/100)/10)
                 else:
-                    stars = '{:d}'.format(repo.watchers)
-                fout.write('| {} <br /> \u2605\u2060 \u2060{}{} | {} | {} |\n'.format(
+                    stars = '{:d}'.format(repo.stargazers_count)
+                fout.write('| {} <br /> \u2605\u2060 \u2060{} | {} | {} | '.format(
                     link,
                     stars,
-                    ' <!-- {} -->'.format(repo.watchers) if repo.watchers >= 1000 else '',
                     language_logo,
                     repo.description
                 ))
+                fout.write('<!-- stars: {}, forks: {}, watching: {} -->\n'.format(
+                    repo.stargazers_count,
+                    repo.forks_count,
+                    repo.watchers_count
+                ))
             fout.write('\n')
-        fout.write('<!-- followers: {} -->\n'.format(g.get_user(args.default_user).followers))
+        user = g.get_user(args.default_user)
+        fout.write('<!-- repos: {}, gists: {}, followers: {}, following: {} -->\n'.format(
+            user.public_repos,
+            user.public_gists,
+            user.followers,
+            user.following
+        ))
 
 
 if __name__ == '__main__':
     main()
-
