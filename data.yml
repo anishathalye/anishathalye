@@ -53,3 +53,15 @@
     - countdown
     - unblock
     - assets
+
+- name: Hidden
+  repos:
+    - dotfiles_template
+    - robust-ml/robust-ml.github.io
+    - robust-ml/robustml
+    - labsix/limited-blackbox-attacks
+    - labsix/adversarial-logit-pairing-analysis
+    - evaluating-adversarial-robustness/adv-eval-paper
+    - cleanlab/label-errors
+    - hacker-tools/hacker-tools.github.io
+    - mathematics-of-deep-learning
