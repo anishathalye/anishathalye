@@ -41,6 +41,7 @@
     - missing-semester/videos
     - dcai-course/dcai-course
     - dcai-course/dcai-lab
+    - bijection/sistine
     - dotfiles
     - dotfiles-local
     - proof-html
@@ -48,4 +49,7 @@
     - hubot-group
     - hubot-shortcut
     - hubot-conf
-    - bijection/sistine
+    - bin2coe
+    - countdown
+    - unblock
+    - assets
