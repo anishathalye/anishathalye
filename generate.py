@@ -25,6 +25,17 @@ def main():
 
     with open(OUTPUT_FILE, 'w') as fout:
         for i, section in enumerate(data):
+            if section['name'] == 'Hidden':
+                fout.write('<!-- Hidden -->\n\n')
+                for repo_name in section['repos']:
+                    display_name = repo_name
+                    if '/' not in repo_name:
+                        repo_name = '{}/{}'.format(args.default_user, repo_name)
+                    repo = g.get_repo(repo_name)
+                    fout.write('<!-- {}: {} -->\n'.format(display_name, repo.watchers))
+                fout.write('\n')
+                continue
+            # visible section
             # header
             fout.write('<h3 align="center">{}</h3>\n\n'.format(section['name']))
             # table header
