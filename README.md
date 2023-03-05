@@ -2,68 +2,80 @@
 
 | | | |
 |---|---|---|
-| [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠6.0k <!-- 6001 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
-| [**git⁠-⁠remote⁠-⁠dropbox**](https://github.com/anishathalye/git-remote-dropbox) <br /> ★⁠ ⁠3.0k <!-- 2971 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁 |
-| [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠339 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
-| [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.3k <!-- 2270 --> | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
-| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠670 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
-| [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠28 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
-| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠394 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
-| [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠169 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
+| [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠6.0k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ | <!-- stars: 6001, forks: 275, watching: 6001 -->
+| [**git⁠-⁠remote⁠-⁠dropbox**](https://github.com/anishathalye/git-remote-dropbox) <br /> ★⁠ ⁠3.0k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁 | <!-- stars: 2971, forks: 154, watching: 2971 -->
+| [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠339 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 | <!-- stars: 339, forks: 14, watching: 339 -->
+| [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.3k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 | <!-- stars: 2270, forks: 59, watching: 2270 -->
+| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠670 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 | <!-- stars: 670, forks: 18, watching: 670 -->
+| [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠28 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 | <!-- stars: 28, forks: 4, watching: 28 -->
+| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠394 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 | <!-- stars: 394, forks: 194, watching: 394 -->
+| [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠169 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 | <!-- stars: 169, forks: 25, watching: 169 -->
 
 <h3 align="center">Machine Learning</h3>
 
 | | | |
 |---|---|---|
-| [**neural⁠-⁠style**](https://github.com/anishathalye/neural-style) <br /> ★⁠ ⁠5.5k <!-- 5520 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Neural style in TensorFlow! 🎨 |
-| [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠845 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
-| [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠633 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |
-| [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠115 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🌱 |
-| [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠95 |  | Simpler human-readable labels for ImageNet 🏷 |
-| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠5.4k <!-- 5429 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. |
+| [**neural⁠-⁠style**](https://github.com/anishathalye/neural-style) <br /> ★⁠ ⁠5.5k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Neural style in TensorFlow! 🎨 | <!-- stars: 5520, forks: 1556, watching: 5520 -->
+| [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠845 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples | <!-- stars: 845, forks: 164, watching: 845 -->
+| [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠633 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 | <!-- stars: 633, forks: 32, watching: 633 -->
+| [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠115 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🌱 | <!-- stars: 115, forks: 8, watching: 115 -->
+| [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠95 |  | Simpler human-readable labels for ImageNet 🏷 | <!-- stars: 95, forks: 52, watching: 95 -->
+| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠5.4k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. | <!-- stars: 5429, forks: 455, watching: 5429 -->
 
 <h3 align="center">Libraries</h3>
 
 | | | |
 |---|---|---|
-| [**porcupine**](https://github.com/anishathalye/porcupine) <br /> ★⁠ ⁠655 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A fast linearizability checker written in Go 🔎 |
-| [**synox**](https://github.com/anishathalye/synox) <br /> ★⁠ ⁠23 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | Rust library for program synthesis of string transformations from input-output examples 🔮 |
+| [**porcupine**](https://github.com/anishathalye/porcupine) <br /> ★⁠ ⁠655 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A fast linearizability checker written in Go 🔎 | <!-- stars: 655, forks: 41, watching: 655 -->
+| [**synox**](https://github.com/anishathalye/synox) <br /> ★⁠ ⁠23 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | Rust library for program synthesis of string transformations from input-output examples 🔮 | <!-- stars: 23, forks: 0, watching: 23 -->
 
 <h3 align="center">Design</h3>
 
 | | | |
 |---|---|---|
-| [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠763 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
-| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠231 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
+| [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠763 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 | <!-- stars: 763, forks: 150, watching: 763 -->
+| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠231 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 | <!-- stars: 231, forks: 15, watching: 231 -->
 
 <h3 align="center">Formal Verification</h3>
 
 | | | |
 |---|---|---|
-| [**knox**](https://github.com/anishathalye/knox) <br /> ★⁠ ⁠11 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | A framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities 🔏 |
-| [**knox⁠-⁠hsm**](https://github.com/anishathalye/knox-hsm) <br /> ★⁠ ⁠10 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Circuits and hardware security modules formally verified with Knox 🔐 |
-| [**rtlv**](https://github.com/anishathalye/rtlv) <br /> ★⁠ ⁠14 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | Tools for reasoning about circuits in Rosette/Racket 🔌 |
-| [**notary**](https://github.com/anishathalye/notary) <br /> ★⁠ ⁠23 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Notary: A Device for Secure Transaction Approval 📟 |
+| [**knox**](https://github.com/anishathalye/knox) <br /> ★⁠ ⁠11 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | A framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities 🔏 | <!-- stars: 11, forks: 0, watching: 11 -->
+| [**knox⁠-⁠hsm**](https://github.com/anishathalye/knox-hsm) <br /> ★⁠ ⁠10 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Circuits and hardware security modules formally verified with Knox 🔐 | <!-- stars: 10, forks: 0, watching: 10 -->
+| [**rtlv**](https://github.com/anishathalye/rtlv) <br /> ★⁠ ⁠14 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | Tools for reasoning about circuits in Rosette/Racket 🔌 | <!-- stars: 14, forks: 3, watching: 14 -->
+| [**notary**](https://github.com/anishathalye/notary) <br /> ★⁠ ⁠23 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Notary: A Device for Secure Transaction Approval 📟 | <!-- stars: 23, forks: 5, watching: 23 -->
 
 <h3 align="center">Misc</h3>
 
 | | | |
 |---|---|---|
-| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠3.8k <!-- 3757 --> | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
-| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠275 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
-| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠54 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 |
-| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠119 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻 |
-| [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.2k <!-- 3221 --> | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
-| [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠624 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
-| [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠64 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://git.io/dotbot 🏠 |
-| [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠32 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML using HTMLProofer ✔️ |
-| [**micro⁠-⁠wwvb**](https://github.com/anishathalye/micro-wwvb) <br /> ★⁠ ⁠5 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | A tiny WWVB station 📡 |
-| [**hubot⁠-⁠group**](https://github.com/anishathalye/hubot-group) <br /> ★⁠ ⁠25 | ![CoffeeScript](https://img.shields.io/badge/coffeescript-%233e2723.svg?style=for-the-badge&logo=coffeescript&logoColor=%23ffffff) | A hubot script that expands mentions of groups 👫 |
-| [**hubot⁠-⁠shortcut**](https://github.com/anishathalye/hubot-shortcut) <br /> ★⁠ ⁠16 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A macro system for hubot 💨 |
-| [**hubot⁠-⁠conf**](https://github.com/anishathalye/hubot-conf) <br /> ★⁠ ⁠10 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A simple configuration management system for hubot 🔧 |
-| [**bin2coe**](https://github.com/anishathalye/bin2coe) <br /> ★⁠ ⁠10 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool to convert binary files to COE files 💫 |
-| [**countdown**](https://github.com/anishathalye/countdown) <br /> ★⁠ ⁠5 | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | A simple countdown timer you can set as your homepage ⏰ |
-| [**unblock**](https://github.com/anishathalye/unblock) <br /> ★⁠ ⁠6 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A tiny utility to make shell pipes behave as if they have unlimited buffering ♾ |
-| [**assets**](https://github.com/anishathalye/assets) <br /> ★⁠ ⁠3 |  | README assets for my GitHub projects |
+| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠3.8k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 | <!-- stars: 3757, forks: 857, watching: 3757 -->
+| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠275 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 | <!-- stars: 275, forks: 28, watching: 275 -->
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠54 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 | <!-- stars: 54, forks: 5, watching: 54 -->
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠119 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻 | <!-- stars: 119, forks: 40, watching: 119 -->
+| [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.2k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware | <!-- stars: 3221, forks: 196, watching: 3221 -->
+| [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠624 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 | <!-- stars: 624, forks: 259, watching: 624 -->
+| [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠64 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://git.io/dotbot 🏠 | <!-- stars: 64, forks: 14, watching: 64 -->
+| [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠32 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML using HTMLProofer ✔️ | <!-- stars: 32, forks: 10, watching: 32 -->
+| [**micro⁠-⁠wwvb**](https://github.com/anishathalye/micro-wwvb) <br /> ★⁠ ⁠5 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | A tiny WWVB station 📡 | <!-- stars: 5, forks: 0, watching: 5 -->
+| [**hubot⁠-⁠group**](https://github.com/anishathalye/hubot-group) <br /> ★⁠ ⁠25 | ![CoffeeScript](https://img.shields.io/badge/coffeescript-%233e2723.svg?style=for-the-badge&logo=coffeescript&logoColor=%23ffffff) | A hubot script that expands mentions of groups 👫 | <!-- stars: 25, forks: 11, watching: 25 -->
+| [**hubot⁠-⁠shortcut**](https://github.com/anishathalye/hubot-shortcut) <br /> ★⁠ ⁠16 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A macro system for hubot 💨 | <!-- stars: 16, forks: 2, watching: 16 -->
+| [**hubot⁠-⁠conf**](https://github.com/anishathalye/hubot-conf) <br /> ★⁠ ⁠10 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A simple configuration management system for hubot 🔧 | <!-- stars: 10, forks: 2, watching: 10 -->
+| [**bin2coe**](https://github.com/anishathalye/bin2coe) <br /> ★⁠ ⁠10 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool to convert binary files to COE files 💫 | <!-- stars: 10, forks: 2, watching: 10 -->
+| [**countdown**](https://github.com/anishathalye/countdown) <br /> ★⁠ ⁠5 | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | A simple countdown timer you can set as your homepage ⏰ | <!-- stars: 5, forks: 1, watching: 5 -->
+| [**unblock**](https://github.com/anishathalye/unblock) <br /> ★⁠ ⁠6 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A tiny utility to make shell pipes behave as if they have unlimited buffering ♾ | <!-- stars: 6, forks: 0, watching: 6 -->
+| [**assets**](https://github.com/anishathalye/assets) <br /> ★⁠ ⁠3 |  | README assets for my GitHub projects | <!-- stars: 3, forks: 0, watching: 3 -->
 
-<!-- followers: 3630 -->
+<!-- Hidden -->
+
+<!-- dotfiles_template - stars: 163, forks: 239, watching: 163 -->
+<!-- robust-ml/robust-ml.github.io - stars: 48, forks: 7, watching: 48 -->
+<!-- robust-ml/robustml - stars: 62, forks: 5, watching: 62 -->
+<!-- labsix/limited-blackbox-attacks - stars: 161, forks: 44, watching: 161 -->
+<!-- labsix/adversarial-logit-pairing-analysis - stars: 61, forks: 11, watching: 61 -->
+<!-- evaluating-adversarial-robustness/adv-eval-paper - stars: 237, forks: 35, watching: 237 -->
+<!-- cleanlab/label-errors - stars: 146, forks: 7, watching: 146 -->
+<!-- hacker-tools/hacker-tools.github.io - stars: 402, forks: 46, watching: 402 -->
+<!-- mathematics-of-deep-learning - stars: 75, forks: 25, watching: 75 -->
+
+<!-- repos: 59, gists: 3, followers: 3630, following: 224 -->
