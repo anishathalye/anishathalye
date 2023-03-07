@@ -36,7 +36,7 @@ def main():
                         display_name,
                         repo.stargazers_count,
                         repo.forks_count,
-                        repo.watchers_count
+                        repo.subscribers_count
                     ))
                 fout.write('\n')
                 continue
@@ -69,7 +69,7 @@ def main():
                 fout.write('<!-- stars: {}, forks: {}, watching: {} -->\n'.format(
                     repo.stargazers_count,
                     repo.forks_count,
-                    repo.watchers_count
+                    repo.subscribers_count
                 ))
             fout.write('\n')
         user = g.get_user(args.default_user)
