@@ -63,6 +63,8 @@
     - labsix/adversarial-logit-pairing-analysis
     - evaluating-adversarial-robustness/adv-eval-paper
     - cleanlab/label-errors
+    - cleanlab/examples
+    - cleanlab/cleanvision
     - hacker-tools/hacker-tools.github.io
     - mathematics-of-deep-learning
     - anishathalye
