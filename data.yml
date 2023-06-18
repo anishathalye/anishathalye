@@ -32,6 +32,7 @@
   repos:
     - knox
     - knox-hsm
+    - chroniton
     - rtlv
     - notary
 
