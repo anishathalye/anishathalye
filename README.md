@@ -20,7 +20,7 @@
 | [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠642 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 | <!-- stars: 642, forks: 33, watching: 10 -->
 | [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠117 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🌱 | <!-- stars: 117, forks: 9, watching: 5 -->
 | [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠101 |  | Simpler human-readable labels for ImageNet 🏷 | <!-- stars: 101, forks: 48, watching: 4 -->
-| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠6.2k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. | <!-- stars: 6214, forks: 515, watching: 72 -->
+| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠6.2k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. | <!-- stars: 6233, forks: 516, watching: 73 -->
 
 <h3 align="center">Libraries</h3>
 
@@ -34,7 +34,7 @@
 | | | |
 |---|---|---|
 | [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠827 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 | <!-- stars: 827, forks: 176, watching: 24 -->
-| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠262 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 | <!-- stars: 262, forks: 22, watching: 10 -->
+| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠263 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 | <!-- stars: 263, forks: 22, watching: 10 -->
 
 <h3 align="center">Formal Verification</h3>
 
@@ -50,10 +50,10 @@
 
 | | | |
 |---|---|---|
-| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠4.2k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 | <!-- stars: 4167, forks: 944, watching: 47 -->
+| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠4.2k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 | <!-- stars: 4167, forks: 946, watching: 47 -->
 | [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠279 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 | <!-- stars: 279, forks: 28, watching: 12 -->
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠71 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 | <!-- stars: 71, forks: 6, watching: 5 -->
-| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠215 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻 | <!-- stars: 215, forks: 85, watching: 11 -->
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠216 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2023 👩🏽‍💻 | <!-- stars: 216, forks: 85, watching: 11 -->
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.2k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware | <!-- stars: 3225, forks: 194, watching: 77 -->
 | [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠652 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 | <!-- stars: 652, forks: 272, watching: 16 -->
 | [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠68 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠 | <!-- stars: 68, forks: 14, watching: 4 -->
@@ -72,14 +72,14 @@
 <!-- dotfiles_template - stars: 166, forks: 239, watching: 9 -->
 <!-- robust-ml/robust-ml.github.io - stars: 48, forks: 7, watching: 5 -->
 <!-- robust-ml/robustml - stars: 62, forks: 5, watching: 5 -->
-<!-- labsix/limited-blackbox-attacks - stars: 166, forks: 44, watching: 9 -->
+<!-- labsix/limited-blackbox-attacks - stars: 166, forks: 43, watching: 9 -->
 <!-- labsix/adversarial-logit-pairing-analysis - stars: 61, forks: 11, watching: 8 -->
 <!-- evaluating-adversarial-robustness/adv-eval-paper - stars: 241, forks: 34, watching: 36 -->
 <!-- cleanlab/label-errors - stars: 158, forks: 9, watching: 6 -->
 <!-- cleanlab/examples - stars: 66, forks: 15, watching: 6 -->
-<!-- cleanlab/cleanvision - stars: 665, forks: 48, watching: 11 -->
+<!-- cleanlab/cleanvision - stars: 666, forks: 48, watching: 11 -->
 <!-- hacker-tools/hacker-tools.github.io - stars: 402, forks: 45, watching: 24 -->
 <!-- mathematics-of-deep-learning - stars: 74, forks: 25, watching: 11 -->
 <!-- anishathalye - stars: 9, forks: 2, watching: 3 -->
 
-<!-- repos: 60, gists: 3, followers: 3774, following: 226 -->
+<!-- repos: 60, gists: 3, followers: 3775, following: 226 -->
