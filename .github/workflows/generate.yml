@@ -25,7 +25,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git diff --quiet README.md || git commit -m "Re-generate README" README.md
+        git diff --quiet README.md || git commit -m "Update" README.md data.yml
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
