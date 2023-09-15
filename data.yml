@@ -1,13 +1,13 @@
-date: '2023-09-12T12:37:45.562883'
+date: '2023-09-15T08:14:39.304947'
 user:
   name: anishathalye
-  followers: 3816
+  followers: 3821
   following: 241
   repos: 60
   gists: 3
 repositories:
   dotbot:
-    stars: 6390
+    stars: 6398
     forks: 284
     watching: 61
   git-remote-dropbox:
@@ -39,9 +39,9 @@ repositories:
     forks: 27
     watching: 14
   neural-style:
-    stars: 5537
+    stars: 5536
     forks: 1552
-    watching: 225
+    watching: 226
   obfuscated-gradients:
     stars: 850
     forks: 166
@@ -59,7 +59,7 @@ repositories:
     forks: 49
     watching: 4
   cleanlab/cleanlab:
-    stars: 6483
+    stars: 6501
     forks: 542
     watching: 72
   porcupine:
@@ -71,7 +71,7 @@ repositories:
     forks: 0
     watching: 3
   gemini:
-    stars: 843
+    stars: 846
     forks: 181
     watching: 23
   auriga:
@@ -99,8 +99,8 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4293
-    forks: 970
+    stars: 4299
+    forks: 974
     watching: 47
   missing-semester/videos:
     stars: 282
@@ -112,10 +112,10 @@ repositories:
     watching: 5
   dcai-course/dcai-lab:
     stars: 280
-    forks: 105
+    forks: 106
     watching: 11
   bijection/sistine:
-    stars: 3229
+    stars: 3230
     forks: 194
     watching: 77
   dotfiles:
@@ -124,7 +124,7 @@ repositories:
     watching: 16
   dotfiles-local:
     stars: 69
-    forks: 13
+    forks: 14
     watching: 4
   proof-html:
     stars: 38
@@ -183,11 +183,11 @@ repositories:
     forks: 11
     watching: 8
   evaluating-adversarial-robustness/adv-eval-paper:
-    stars: 241
+    stars: 242
     forks: 33
     watching: 36
   cleanlab/label-errors:
-    stars: 162
+    stars: 163
     forks: 9
     watching: 6
   cleanlab/examples:
@@ -195,7 +195,7 @@ repositories:
     forks: 15
     watching: 6
   cleanlab/cleanvision:
-    stars: 694
+    stars: 695
     forks: 51
     watching: 14
   hacker-tools/hacker-tools.github.io:

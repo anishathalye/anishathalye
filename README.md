@@ -33,7 +33,7 @@
 
 | | | |
 |---|---|---|
-| [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠843 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
+| [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠846 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
 | [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠278 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
 
 <h3 align="center">Formal Verification</h3>
