@@ -1,17 +1,17 @@
-date: '2024-01-26T08:14:06.629992'
+date: '2024-02-02T08:14:29.317974'
 user:
   name: anishathalye
-  followers: 3952
-  following: 244
+  followers: 3962
+  following: 245
   repos: 61
   gists: 3
 repositories:
   dotbot:
-    stars: 6629
-    forks: 286
+    stars: 6648
+    forks: 288
     watching: 61
   git-remote-dropbox:
-    stars: 3017
+    stars: 3018
     forks: 162
     watching: 62
   periscope:
@@ -31,8 +31,8 @@ repositories:
     forks: 10
     watching: 3
   gavel:
-    stars: 417
-    forks: 219
+    stars: 419
+    forks: 221
     watching: 16
   offix:
     stars: 182
@@ -41,7 +41,7 @@ repositories:
   neural-style:
     stars: 5544
     forks: 1539
-    watching: 227
+    watching: 226
   obfuscated-gradients:
     stars: 860
     forks: 166
@@ -59,8 +59,8 @@ repositories:
     forks: 50
     watching: 4
   cleanlab/cleanlab:
-    stars: 7751
-    forks: 621
+    stars: 7769
+    forks: 624
     watching: 80
   porcupine:
     stars: 817
@@ -72,18 +72,18 @@ repositories:
     watching: 3
   gemini:
     stars: 882
-    forks: 195
+    forks: 196
     watching: 23
   auriga:
-    stars: 292
-    forks: 26
+    stars: 294
+    forks: 27
     watching: 10
   knox:
     stars: 27
     forks: 0
     watching: 3
   knox-hsm:
-    stars: 19
+    stars: 20
     forks: 1
     watching: 3
   chroniton:
@@ -99,8 +99,8 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4578
-    forks: 1043
+    stars: 4588
+    forks: 1046
     watching: 48
   missing-semester/videos:
     stars: 286
@@ -111,24 +111,24 @@ repositories:
     forks: 12
     watching: 7
   dcai-course/dcai-lab:
-    stars: 376
+    stars: 378
     forks: 134
     watching: 13
   bijection/sistine:
-    stars: 3240
+    stars: 3241
     forks: 194
     watching: 77
   dotfiles:
-    stars: 672
-    forks: 278
+    stars: 674
+    forks: 277
     watching: 16
   dotfiles-local:
     stars: 72
     forks: 15
     watching: 4
   proof-html:
-    stars: 41
-    forks: 19
+    stars: 42
+    forks: 20
     watching: 4
   micro-wwvb:
     stars: 12
@@ -147,7 +147,7 @@ repositories:
     forks: 2
     watching: 5
   bin2coe:
-    stars: 12
+    stars: 13
     forks: 1
     watching: 3
   countdown:
@@ -195,8 +195,8 @@ repositories:
     forks: 18
     watching: 6
   cleanlab/cleanvision:
-    stars: 868
-    forks: 68
+    stars: 885
+    forks: 69
     watching: 14
   hacker-tools/hacker-tools.github.io:
     stars: 404
