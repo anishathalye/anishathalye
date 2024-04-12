@@ -1,14 +1,14 @@
-date: '2024-04-05T08:14:33.545022'
+date: '2024-04-12T08:15:12.027843'
 user:
   name: anishathalye
-  followers: 4027
+  followers: 4031
   following: 250
-  repos: 61
+  repos: 62
   gists: 3
 repositories:
   dotbot:
-    stars: 6754
-    forks: 279
+    stars: 6770
+    forks: 281
     watching: 63
   git-remote-dropbox:
     stars: 3027
@@ -19,7 +19,7 @@ repositories:
     forks: 12
     watching: 7
   lumen:
-    stars: 2282
+    stars: 2284
     forks: 52
     watching: 48
   seashells:
@@ -40,14 +40,14 @@ repositories:
     watching: 14
   neural-style:
     stars: 5542
-    forks: 1526
+    forks: 1525
     watching: 226
   obfuscated-gradients:
     stars: 866
-    forks: 170
+    forks: 171
     watching: 49
   neural-hash-collider:
-    stars: 653
+    stars: 654
     forks: 33
     watching: 11
   ribosome:
@@ -59,23 +59,23 @@ repositories:
     forks: 51
     watching: 4
   cleanlab/cleanlab:
-    stars: 8182
-    forks: 645
-    watching: 82
+    stars: 8388
+    forks: 654
+    watching: 84
   porcupine:
     stars: 832
-    forks: 48
-    watching: 24
+    forks: 49
+    watching: 25
   synox:
     stars: 25
     forks: 0
     watching: 3
   gemini:
-    stars: 906
+    stars: 909
     forks: 202
     watching: 23
   auriga:
-    stars: 303
+    stars: 304
     forks: 26
     watching: 9
   knox:
@@ -99,8 +99,8 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4665
-    forks: 1066
+    stars: 4672
+    forks: 1067
     watching: 46
   missing-semester/videos:
     stars: 291
@@ -111,11 +111,11 @@ repositories:
     forks: 14
     watching: 7
   dcai-course/dcai-lab:
-    stars: 391
-    forks: 137
+    stars: 392
+    forks: 138
     watching: 13
   bijection/sistine:
-    stars: 3249
+    stars: 3250
     forks: 191
     watching: 77
   dotfiles:
@@ -191,11 +191,11 @@ repositories:
     forks: 9
     watching: 6
   cleanlab/examples:
-    stars: 96
+    stars: 97
     forks: 18
     watching: 7
   cleanlab/cleanvision:
-    stars: 913
+    stars: 918
     forks: 70
     watching: 15
   hacker-tools/hacker-tools.github.io:
