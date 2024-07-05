@@ -1,17 +1,17 @@
-date: '2024-06-28T08:16:02.908196'
+date: '2024-07-05T08:16:25.580114'
 user:
   name: anishathalye
-  followers: 4103
+  followers: 4112
   following: 260
   repos: 62
   gists: 3
 repositories:
   dotbot:
-    stars: 6889
-    forks: 288
+    stars: 6899
+    forks: 287
     watching: 62
   git-remote-dropbox:
-    stars: 3041
+    stars: 3042
     forks: 155
     watching: 62
   periscope:
@@ -19,7 +19,7 @@ repositories:
     forks: 13
     watching: 7
   lumen:
-    stars: 2283
+    stars: 2284
     forks: 52
     watching: 48
   seashells:
@@ -32,22 +32,22 @@ repositories:
     watching: 3
   gavel:
     stars: 430
-    forks: 230
+    forks: 231
     watching: 16
   offix:
     stars: 181
     forks: 26
     watching: 14
   neural-style:
-    stars: 5543
+    stars: 5542
     forks: 1519
     watching: 224
   obfuscated-gradients:
-    stars: 875
-    forks: 170
+    stars: 876
+    forks: 169
     watching: 48
   neural-hash-collider:
-    stars: 662
+    stars: 663
     forks: 34
     watching: 11
   ribosome:
@@ -59,11 +59,11 @@ repositories:
     forks: 51
     watching: 4
   cleanlab/cleanlab:
-    stars: 8954
-    forks: 689
+    stars: 8970
+    forks: 688
     watching: 86
   porcupine:
-    stars: 855
+    stars: 856
     forks: 50
     watching: 24
   synox:
@@ -71,11 +71,11 @@ repositories:
     forks: 0
     watching: 3
   gemini:
-    stars: 943
-    forks: 212
+    stars: 946
+    forks: 213
     watching: 23
   auriga:
-    stars: 322
+    stars: 323
     forks: 28
     watching: 9
   knox:
@@ -99,8 +99,8 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4778
-    forks: 1083
+    stars: 4783
+    forks: 1085
     watching: 47
   missing-semester/videos:
     stars: 294
@@ -112,18 +112,18 @@ repositories:
     watching: 7
   dcai-course/dcai-lab:
     stars: 407
-    forks: 140
+    forks: 141
     watching: 13
   bijection/sistine:
-    stars: 3249
+    stars: 3251
     forks: 192
     watching: 77
   dotfiles:
-    stars: 688
+    stars: 691
     forks: 279
     watching: 15
   dotfiles-local:
-    stars: 73
+    stars: 74
     forks: 16
     watching: 4
   proof-html:
@@ -163,8 +163,8 @@ repositories:
     forks: 0
     watching: 3
   dotfiles_template:
-    stars: 180
-    forks: 231
+    stars: 181
+    forks: 230
     watching: 8
   robust-ml/robust-ml.github.io:
     stars: 49
@@ -191,15 +191,15 @@ repositories:
     forks: 9
     watching: 6
   cleanlab/examples:
-    stars: 104
+    stars: 105
     forks: 19
     watching: 8
   cleanlab/cleanvision:
-    stars: 961
+    stars: 966
     forks: 72
     watching: 16
   hacker-tools/hacker-tools.github.io:
-    stars: 404
+    stars: 403
     forks: 45
     watching: 23
   mathematics-of-deep-learning:
