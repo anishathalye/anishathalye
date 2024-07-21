@@ -30,6 +30,7 @@
 
 - name: Formal Verification
   repos:
+    - ipr
     - knox
     - knox-hsm
     - chroniton
