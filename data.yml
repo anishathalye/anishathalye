@@ -1,21 +1,21 @@
-date: '2024-07-19T08:16:33.397048'
+date: '2024-07-21T13:26:57.892586'
 user:
   name: anishathalye
   followers: 4123
   following: 260
-  repos: 62
+  repos: 63
   gists: 3
 repositories:
   dotbot:
-    stars: 6915
-    forks: 288
+    stars: 6917
+    forks: 287
     watching: 63
   git-remote-dropbox:
     stars: 3043
     forks: 155
     watching: 62
   periscope:
-    stars: 373
+    stars: 371
     forks: 13
     watching: 7
   lumen:
@@ -59,11 +59,11 @@ repositories:
     forks: 51
     watching: 4
   cleanlab/cleanlab:
-    stars: 9147
+    stars: 9150
     forks: 711
     watching: 89
   porcupine:
-    stars: 861
+    stars: 863
     forks: 50
     watching: 24
   synox:
@@ -78,6 +78,10 @@ repositories:
     stars: 325
     forks: 28
     watching: 9
+  ipr:
+    stars: 2
+    forks: 0
+    watching: 1
   knox:
     stars: 29
     forks: 0
@@ -99,20 +103,20 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4797
+    stars: 4800
     forks: 1088
-    watching: 49
+    watching: 48
   missing-semester/videos:
-    stars: 295
+    stars: 296
     forks: 30
     watching: 12
   dcai-course/dcai-course:
-    stars: 91
+    stars: 92
     forks: 14
     watching: 7
   dcai-course/dcai-lab:
     stars: 407
-    forks: 142
+    forks: 143
     watching: 13
   bijection/sistine:
     stars: 3253
@@ -128,7 +132,7 @@ repositories:
     watching: 4
   proof-html:
     stars: 53
-    forks: 17
+    forks: 20
     watching: 4
   micro-wwvb:
     stars: 17
@@ -191,7 +195,7 @@ repositories:
     forks: 9
     watching: 6
   cleanlab/examples:
-    stars: 107
+    stars: 108
     forks: 20
     watching: 8
   cleanlab/cleanvision:
