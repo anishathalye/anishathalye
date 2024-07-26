@@ -1,17 +1,17 @@
-date: '2024-07-21T13:26:57.892586'
+date: '2024-07-26T08:16:22.425370'
 user:
   name: anishathalye
-  followers: 4123
-  following: 260
+  followers: 4124
+  following: 262
   repos: 63
   gists: 3
 repositories:
   dotbot:
-    stars: 6917
-    forks: 287
-    watching: 63
+    stars: 6923
+    forks: 286
+    watching: 62
   git-remote-dropbox:
-    stars: 3043
+    stars: 3044
     forks: 155
     watching: 62
   periscope:
@@ -39,7 +39,7 @@ repositories:
     forks: 27
     watching: 14
   neural-style:
-    stars: 5541
+    stars: 5539
     forks: 1519
     watching: 224
   obfuscated-gradients:
@@ -47,7 +47,7 @@ repositories:
     forks: 169
     watching: 48
   neural-hash-collider:
-    stars: 664
+    stars: 663
     forks: 34
     watching: 11
   ribosome:
@@ -55,15 +55,15 @@ repositories:
     forks: 10
     watching: 5
   imagenet-simple-labels:
-    stars: 117
+    stars: 118
     forks: 51
     watching: 4
   cleanlab/cleanlab:
-    stars: 9150
-    forks: 711
+    stars: 9166
+    forks: 712
     watching: 89
   porcupine:
-    stars: 863
+    stars: 865
     forks: 50
     watching: 24
   synox:
@@ -71,11 +71,11 @@ repositories:
     forks: 0
     watching: 3
   gemini:
-    stars: 959
-    forks: 215
+    stars: 966
+    forks: 217
     watching: 23
   auriga:
-    stars: 325
+    stars: 326
     forks: 28
     watching: 9
   ipr:
@@ -103,8 +103,8 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4800
-    forks: 1088
+    stars: 4805
+    forks: 1087
     watching: 48
   missing-semester/videos:
     stars: 296
@@ -131,7 +131,7 @@ repositories:
     forks: 16
     watching: 4
   proof-html:
-    stars: 53
+    stars: 54
     forks: 20
     watching: 4
   micro-wwvb:
@@ -195,11 +195,11 @@ repositories:
     forks: 9
     watching: 6
   cleanlab/examples:
-    stars: 108
+    stars: 107
     forks: 20
     watching: 8
   cleanlab/cleanvision:
-    stars: 983
+    stars: 984
     forks: 71
     watching: 16
   hacker-tools/hacker-tools.github.io:
@@ -213,4 +213,4 @@ repositories:
   anishathalye:
     stars: 11
     forks: 2
-    watching: 3
+    watching: 4
