@@ -1,14 +1,14 @@
-date: '2024-09-27T08:19:05.222558'
+date: '2024-10-04T08:19:01.499694'
 user:
   name: anishathalye
-  followers: 4168
-  following: 266
+  followers: 4173
+  following: 267
   repos: 65
   gists: 3
 repositories:
   dotbot:
-    stars: 7019
-    forks: 290
+    stars: 7035
+    forks: 291
     watching: 62
   git-remote-dropbox:
     stars: 3055
@@ -23,15 +23,15 @@ repositories:
     forks: 52
     watching: 47
   seashells:
-    stars: 708
+    stars: 707
     forks: 20
     watching: 10
   seashells-server:
-    stars: 54
+    stars: 53
     forks: 8
     watching: 3
   gavel:
-    stars: 432
+    stars: 433
     forks: 236
     watching: 16
   offix:
@@ -39,7 +39,7 @@ repositories:
     forks: 27
     watching: 14
   neural-style:
-    stars: 5540
+    stars: 5539
     forks: 1513
     watching: 224
   obfuscated-gradients:
@@ -59,11 +59,11 @@ repositories:
     forks: 52
     watching: 4
   cleanlab/cleanlab:
-    stars: 9435
-    forks: 729
+    stars: 9451
+    forks: 731
     watching: 89
   porcupine:
-    stars: 882
+    stars: 883
     forks: 51
     watching: 24
   synox:
@@ -71,8 +71,8 @@ repositories:
     forks: 0
     watching: 3
   gemini:
-    stars: 982
-    forks: 225
+    stars: 983
+    forks: 223
     watching: 23
   auriga:
     stars: 328
@@ -87,7 +87,7 @@ repositories:
     forks: 0
     watching: 3
   knox-hsm:
-    stars: 23
+    stars: 22
     forks: 2
     watching: 3
   chroniton:
@@ -103,23 +103,23 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4882
-    forks: 1099
+    stars: 4890
+    forks: 1114
     watching: 46
   missing-semester/videos:
     stars: 298
     forks: 30
     watching: 12
   dcai-course/dcai-course:
-    stars: 96
+    stars: 97
     forks: 14
     watching: 7
   dcai-course/dcai-lab:
-    stars: 419
-    forks: 146
+    stars: 422
+    forks: 147
     watching: 13
   bijection/sistine:
-    stars: 3250
+    stars: 3251
     forks: 192
     watching: 77
   dotfiles:
@@ -187,7 +187,7 @@ repositories:
     forks: 11
     watching: 8
   evaluating-adversarial-robustness/adv-eval-paper:
-    stars: 250
+    stars: 251
     forks: 33
     watching: 36
   cleanlab/label-errors:
@@ -199,8 +199,8 @@ repositories:
     forks: 22
     watching: 8
   cleanlab/cleanvision:
-    stars: 1006
-    forks: 68
+    stars: 1016
+    forks: 70
     watching: 16
   hacker-tools/hacker-tools.github.io:
     stars: 405
