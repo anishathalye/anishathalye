@@ -1,33 +1,33 @@
-date: '2024-10-04T08:19:01.499694'
+date: '2024-10-11T08:19:10.699992'
 user:
   name: anishathalye
-  followers: 4173
+  followers: 4178
   following: 267
   repos: 65
   gists: 3
 repositories:
   dotbot:
-    stars: 7035
+    stars: 7042
     forks: 291
     watching: 62
   git-remote-dropbox:
-    stars: 3055
-    forks: 155
+    stars: 3053
+    forks: 156
     watching: 62
   periscope:
-    stars: 379
+    stars: 380
     forks: 13
     watching: 7
   lumen:
-    stars: 2286
+    stars: 2283
     forks: 52
     watching: 47
   seashells:
-    stars: 707
+    stars: 708
     forks: 20
     watching: 10
   seashells-server:
-    stars: 53
+    stars: 54
     forks: 8
     watching: 3
   gavel:
@@ -47,7 +47,7 @@ repositories:
     forks: 170
     watching: 48
   neural-hash-collider:
-    stars: 664
+    stars: 665
     forks: 33
     watching: 11
   ribosome:
@@ -59,11 +59,11 @@ repositories:
     forks: 52
     watching: 4
   cleanlab/cleanlab:
-    stars: 9451
-    forks: 731
-    watching: 89
+    stars: 9583
+    forks: 742
+    watching: 90
   porcupine:
-    stars: 883
+    stars: 884
     forks: 51
     watching: 24
   synox:
@@ -71,23 +71,23 @@ repositories:
     forks: 0
     watching: 3
   gemini:
-    stars: 983
+    stars: 989
     forks: 223
     watching: 23
   auriga:
     stars: 328
-    forks: 29
-    watching: 9
+    forks: 30
+    watching: 10
   ipr:
     stars: 2
     forks: 0
     watching: 1
   knox:
     stars: 29
-    forks: 0
+    forks: 1
     watching: 3
   knox-hsm:
-    stars: 22
+    stars: 23
     forks: 2
     watching: 3
   chroniton:
@@ -103,9 +103,9 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4890
-    forks: 1114
-    watching: 46
+    stars: 4896
+    forks: 1125
+    watching: 47
   missing-semester/videos:
     stars: 298
     forks: 30
@@ -115,11 +115,11 @@ repositories:
     forks: 14
     watching: 7
   dcai-course/dcai-lab:
-    stars: 422
-    forks: 147
+    stars: 424
+    forks: 148
     watching: 13
   bijection/sistine:
-    stars: 3251
+    stars: 3249
     forks: 192
     watching: 77
   dotfiles:
@@ -131,11 +131,11 @@ repositories:
     forks: 16
     watching: 4
   proof-html:
-    stars: 57
-    forks: 21
+    stars: 59
+    forks: 20
     watching: 4
   micro-wwvb:
-    stars: 17
+    stars: 18
     forks: 2
     watching: 5
   hubot-group:
@@ -191,15 +191,15 @@ repositories:
     forks: 33
     watching: 36
   cleanlab/label-errors:
-    stars: 181
+    stars: 182
     forks: 9
     watching: 6
   cleanlab/examples:
-    stars: 110
+    stars: 112
     forks: 22
     watching: 8
   cleanlab/cleanvision:
-    stars: 1016
+    stars: 1019
     forks: 70
     watching: 16
   hacker-tools/hacker-tools.github.io:
