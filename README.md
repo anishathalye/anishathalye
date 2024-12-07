@@ -2,11 +2,11 @@
 
 | | | |
 |---|---|---|
-| [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠7.1k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
+| [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠7.2k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
 | [**git⁠-⁠remote⁠-⁠dropbox**](https://github.com/anishathalye/git-remote-dropbox) <br /> ★⁠ ⁠3.1k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁 |
 | [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠386 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
 | [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.3k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
-| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠711 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
+| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠712 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
 | [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠57 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
 | [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠445 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
 | [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠186 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
@@ -26,14 +26,14 @@
 
 | | | |
 |---|---|---|
-| [**porcupine**](https://github.com/anishathalye/porcupine) <br /> ★⁠ ⁠969 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A fast linearizability checker written in Go 🔎 |
+| [**porcupine**](https://github.com/anishathalye/porcupine) <br /> ★⁠ ⁠970 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A fast linearizability checker written in Go 🔎 |
 | [**synox**](https://github.com/anishathalye/synox) <br /> ★⁠ ⁠26 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | Rust library for program synthesis of string transformations from input-output examples 🔮 |
 
 <h3 align="center">Design</h3>
 
 | | | |
 |---|---|---|
-| [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠1.0k | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
+| [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠1k | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
 | [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠343 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
 
 <h3 align="center">Formal Verification</h3>
@@ -51,7 +51,7 @@
 
 | | | |
 |---|---|---|
-| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5.0k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
+| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
 | [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠298 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠98 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠439 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
