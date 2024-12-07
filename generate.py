@@ -61,6 +61,8 @@ def main():
                 language_logo = '![{}]({})'.format(repo.language, languages[repo.language]) if repo.language else ''
                 if repo.stargazers_count >= 1000:
                     stars = '{:.1f}k'.format(round(repo.stargazers_count/100)/10)
+                    if stars.endswith('.0k'):
+                        stars = '{}k'.format(stars[:-3])
                 else:
                     stars = '{:d}'.format(repo.stargazers_count)
                 fout.write('| {} <br /> \u2605\u2060 \u2060{} | {} | {} |\n'.format(
