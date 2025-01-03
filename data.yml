@@ -1,45 +1,45 @@
-date: '2024-12-27T08:18:49.022728'
+date: '2025-01-03T08:18:46.819338'
 user:
   name: anishathalye
-  followers: 4229
-  following: 268
+  followers: 4235
+  following: 267
   repos: 65
   gists: 3
 repositories:
   dotbot:
-    stars: 7172
-    forks: 294
-    watching: 61
+    stars: 7190
+    forks: 295
+    watching: 60
   git-remote-dropbox:
-    stars: 3067
+    stars: 3068
     forks: 156
     watching: 62
   periscope:
-    stars: 387
+    stars: 388
     forks: 14
     watching: 7
   lumen:
-    stars: 2287
+    stars: 2289
     forks: 52
     watching: 46
   seashells:
-    stars: 713
+    stars: 714
     forks: 20
     watching: 10
   seashells-server:
     stars: 57
-    forks: 8
+    forks: 9
     watching: 3
   gavel:
-    stars: 446
+    stars: 448
     forks: 237
     watching: 16
   offix:
     stars: 186
-    forks: 27
+    forks: 28
     watching: 14
   neural-style:
-    stars: 5542
+    stars: 5543
     forks: 1507
     watching: 223
   obfuscated-gradients:
@@ -59,11 +59,11 @@ repositories:
     forks: 53
     watching: 4
   cleanlab/cleanlab:
-    stars: 9841
-    forks: 754
+    stars: 9856
+    forks: 753
     watching: 88
   porcupine:
-    stars: 980
+    stars: 984
     forks: 54
     watching: 24
   synox:
@@ -71,8 +71,8 @@ repositories:
     forks: 0
     watching: 3
   gemini:
-    stars: 1020
-    forks: 231
+    stars: 1021
+    forks: 232
     watching: 23
   auriga:
     stars: 345
@@ -103,8 +103,8 @@ repositories:
     forks: 6
     watching: 6
   missing-semester/missing-semester:
-    stars: 4997
-    forks: 1163
+    stars: 5006
+    forks: 1165
     watching: 47
   missing-semester/videos:
     stars: 299
@@ -116,10 +116,10 @@ repositories:
     watching: 7
   dcai-course/dcai-lab:
     stars: 440
-    forks: 155
+    forks: 154
     watching: 13
   bijection/sistine:
-    stars: 3250
+    stars: 3251
     forks: 192
     watching: 77
   dotfiles:
@@ -131,7 +131,7 @@ repositories:
     forks: 16
     watching: 4
   proof-html:
-    stars: 61
+    stars: 62
     forks: 21
     watching: 4
   micro-wwvb:
@@ -155,11 +155,11 @@ repositories:
     forks: 1
     watching: 3
   countdown:
-    stars: 5
+    stars: 6
     forks: 1
     watching: 3
   unblock:
-    stars: 7
+    stars: 8
     forks: 0
     watching: 3
   assets:
@@ -167,7 +167,7 @@ repositories:
     forks: 0
     watching: 3
   dotfiles_template:
-    stars: 184
+    stars: 186
     forks: 231
     watching: 8
   robust-ml/robust-ml.github.io:
