@@ -26,7 +26,7 @@
 
 | | | |
 |---|---|---|
-| [**porcupine**](https://github.com/anishathalye/porcupine) <br /> ★⁠ ⁠990 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A fast linearizability checker written in Go 🔎 |
+| [**porcupine**](https://github.com/anishathalye/porcupine) <br /> ★⁠ ⁠991 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A fast linearizability checker written in Go 🔎 |
 | [**synox**](https://github.com/anishathalye/synox) <br /> ★⁠ ⁠26 | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | Rust library for program synthesis of string transformations from input-output examples 🔮 |
 
 <h3 align="center">Design</h3>
@@ -58,7 +58,7 @@
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.3k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
 | [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠714 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
 | [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠78 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠 |
-| [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠66 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML, check links, and more ✅ |
+| [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠67 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML, check links, and more ✅ |
 | [**micro⁠-⁠wwvb**](https://github.com/anishathalye/micro-wwvb) <br /> ★⁠ ⁠19 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | A tiny WWVB station 📡 |
 | [**hubot⁠-⁠group**](https://github.com/anishathalye/hubot-group) <br /> ★⁠ ⁠26 | ![CoffeeScript](https://img.shields.io/badge/coffeescript-%233e2723.svg?style=for-the-badge&logo=coffeescript&logoColor=%23ffffff) | A hubot script that expands mentions of groups 👫 |
 | [**hubot⁠-⁠shortcut**](https://github.com/anishathalye/hubot-shortcut) <br /> ★⁠ ⁠16 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A macro system for hubot 💨 |
