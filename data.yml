@@ -1,21 +1,21 @@
-date: '2025-03-07T08:19:31.522144'
+date: '2025-03-11T16:47:57.471943'
 user:
   name: anishathalye
-  followers: 4277
+  followers: 4280
   following: 265
   repos: 65
   gists: 3
 repositories:
   dotbot:
-    stars: 7299
-    forks: 297
+    stars: 7307
+    forks: 298
     watching: 57
   git-remote-dropbox:
-    stars: 3083
+    stars: 3084
     forks: 155
     watching: 61
   periscope:
-    stars: 391
+    stars: 393
     forks: 14
     watching: 5
   lumen:
@@ -31,11 +31,11 @@ repositories:
     forks: 9
     watching: 2
   gavel:
-    stars: 452
+    stars: 453
     forks: 242
     watching: 15
   offix:
-    stars: 188
+    stars: 189
     forks: 28
     watching: 13
   neural-style:
@@ -59,7 +59,7 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 10218
+    stars: 10223
     forks: 799
     watching: 86
   porcupine:
@@ -71,11 +71,11 @@ repositories:
     forks: 0
     watching: 2
   gemini:
-    stars: 1038
+    stars: 1041
     forks: 239
     watching: 22
   auriga:
-    stars: 356
+    stars: 359
     forks: 35
     watching: 9
   ipr:
@@ -103,8 +103,8 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5046
-    forks: 1190
+    stars: 5054
+    forks: 1197
     watching: 46
   missing-semester/videos:
     stars: 300
@@ -115,7 +115,7 @@ repositories:
     forks: 13
     watching: 6
   dcai-course/dcai-lab:
-    stars: 448
+    stars: 449
     forks: 155
     watching: 13
   bijection/sistine:
@@ -131,7 +131,7 @@ repositories:
     forks: 16
     watching: 3
   proof-html:
-    stars: 71
+    stars: 70
     forks: 25
     watching: 3
   micro-wwvb:
@@ -159,7 +159,7 @@ repositories:
     forks: 1
     watching: 2
   unblock:
-    stars: 8
+    stars: 9
     forks: 0
     watching: 2
   assets:
@@ -199,7 +199,7 @@ repositories:
     forks: 23
     watching: 8
   cleanlab/cleanvision:
-    stars: 1053
+    stars: 1056
     forks: 72
     watching: 16
   hacker-tools/hacker-tools.github.io:
