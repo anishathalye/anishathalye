@@ -1,13 +1,13 @@
-date: '2025-03-11T16:47:57.471943'
+date: '2025-03-14T08:19:57.531235'
 user:
   name: anishathalye
-  followers: 4280
+  followers: 4285
   following: 265
   repos: 65
   gists: 3
 repositories:
   dotbot:
-    stars: 7307
+    stars: 7311
     forks: 298
     watching: 57
   git-remote-dropbox:
@@ -15,7 +15,7 @@ repositories:
     forks: 155
     watching: 61
   periscope:
-    stars: 393
+    stars: 394
     forks: 14
     watching: 5
   lumen:
@@ -40,18 +40,18 @@ repositories:
     watching: 13
   neural-style:
     stars: 5539
-    forks: 1505
+    forks: 1503
     watching: 221
   obfuscated-gradients:
     stars: 885
     forks: 172
     watching: 47
   neural-hash-collider:
-    stars: 672
+    stars: 671
     forks: 32
     watching: 10
   ribosome:
-    stars: 143
+    stars: 142
     forks: 10
     watching: 5
   imagenet-simple-labels:
@@ -59,11 +59,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 10223
-    forks: 799
+    stars: 10227
+    forks: 800
     watching: 86
   porcupine:
-    stars: 995
+    stars: 997
     forks: 55
     watching: 22
   synox:
@@ -71,7 +71,7 @@ repositories:
     forks: 0
     watching: 2
   gemini:
-    stars: 1041
+    stars: 1043
     forks: 239
     watching: 22
   auriga:
@@ -103,8 +103,8 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5054
-    forks: 1197
+    stars: 5056
+    forks: 1199
     watching: 46
   missing-semester/videos:
     stars: 300
@@ -119,11 +119,11 @@ repositories:
     forks: 155
     watching: 13
   bijection/sistine:
-    stars: 3256
+    stars: 3257
     forks: 192
     watching: 76
   dotfiles:
-    stars: 718
+    stars: 717
     forks: 278
     watching: 14
   dotfiles-local:
@@ -167,7 +167,7 @@ repositories:
     forks: 0
     watching: 2
   dotfiles_template:
-    stars: 189
+    stars: 190
     forks: 231
     watching: 7
   robust-ml/robust-ml.github.io:
