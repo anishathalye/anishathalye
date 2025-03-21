@@ -1,17 +1,17 @@
-date: '2025-03-14T08:19:57.531235'
+date: '2025-03-21T08:19:56.030613'
 user:
   name: anishathalye
-  followers: 4285
+  followers: 4296
   following: 265
-  repos: 65
+  repos: 66
   gists: 3
 repositories:
   dotbot:
-    stars: 7311
+    stars: 7318
     forks: 298
     watching: 57
   git-remote-dropbox:
-    stars: 3084
+    stars: 3087
     forks: 155
     watching: 61
   periscope:
@@ -47,11 +47,11 @@ repositories:
     forks: 172
     watching: 47
   neural-hash-collider:
-    stars: 671
+    stars: 669
     forks: 32
     watching: 10
   ribosome:
-    stars: 142
+    stars: 143
     forks: 10
     watching: 5
   imagenet-simple-labels:
@@ -59,8 +59,8 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 10227
-    forks: 800
+    stars: 10242
+    forks: 801
     watching: 86
   porcupine:
     stars: 997
@@ -71,11 +71,11 @@ repositories:
     forks: 0
     watching: 2
   gemini:
-    stars: 1043
-    forks: 239
+    stars: 1049
+    forks: 240
     watching: 22
   auriga:
-    stars: 359
+    stars: 361
     forks: 35
     watching: 9
   ipr:
@@ -103,7 +103,7 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5056
+    stars: 5069
     forks: 1199
     watching: 46
   missing-semester/videos:
@@ -123,16 +123,16 @@ repositories:
     forks: 192
     watching: 76
   dotfiles:
-    stars: 717
-    forks: 278
+    stars: 718
+    forks: 275
     watching: 14
   dotfiles-local:
     stars: 80
     forks: 16
     watching: 3
   proof-html:
-    stars: 70
-    forks: 25
+    stars: 71
+    forks: 26
     watching: 3
   micro-wwvb:
     stars: 19
@@ -199,7 +199,7 @@ repositories:
     forks: 23
     watching: 8
   cleanlab/cleanvision:
-    stars: 1056
+    stars: 1061
     forks: 72
     watching: 16
   hacker-tools/hacker-tools.github.io:
