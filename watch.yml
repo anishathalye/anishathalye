@@ -55,6 +55,7 @@
     - countdown
     - unblock
     - assets
+    - anishathalye
 
 - name: Hidden
   repos:
@@ -69,4 +70,3 @@
     - cleanlab/cleanvision
     - hacker-tools/hacker-tools.github.io
     - mathematics-of-deep-learning
-    - anishathalye
