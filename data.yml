@@ -1,17 +1,17 @@
-date: '2025-04-11T08:21:36.123713'
+date: '2025-04-17T01:41:24.633096'
 user:
   name: anishathalye
-  followers: 4320
+  followers: 4323
   following: 266
   repos: 66
   gists: 3
 repositories:
   dotbot:
-    stars: 7358
+    stars: 7379
     forks: 300
     watching: 57
   git-remote-dropbox:
-    stars: 3095
+    stars: 3097
     forks: 154
     watching: 61
   periscope:
@@ -39,11 +39,11 @@ repositories:
     forks: 28
     watching: 13
   neural-style:
-    stars: 5542
+    stars: 5543
     forks: 1501
     watching: 220
   obfuscated-gradients:
-    stars: 889
+    stars: 890
     forks: 172
     watching: 47
   neural-hash-collider:
@@ -51,7 +51,7 @@ repositories:
     forks: 32
     watching: 10
   ribosome:
-    stars: 143
+    stars: 144
     forks: 10
     watching: 5
   imagenet-simple-labels:
@@ -59,11 +59,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 10450
-    forks: 822
+    stars: 10469
+    forks: 823
     watching: 87
   porcupine:
-    stars: 1015
+    stars: 1016
     forks: 56
     watching: 22
   synox:
@@ -71,8 +71,8 @@ repositories:
     forks: 0
     watching: 2
   gemini:
-    stars: 1061
-    forks: 245
+    stars: 1063
+    forks: 246
     watching: 22
   auriga:
     stars: 366
@@ -103,8 +103,8 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5092
-    forks: 1202
+    stars: 5103
+    forks: 1206
     watching: 45
   missing-semester/videos:
     stars: 299
@@ -115,11 +115,11 @@ repositories:
     forks: 13
     watching: 6
   dcai-course/dcai-lab:
-    stars: 449
+    stars: 450
     forks: 156
     watching: 13
   bijection/sistine:
-    stars: 3256
+    stars: 3257
     forks: 192
     watching: 76
   dotfiles:
@@ -132,12 +132,12 @@ repositories:
     watching: 3
   proof-html:
     stars: 72
-    forks: 25
+    forks: 26
     watching: 3
   micro-wwvb:
-    stars: 20
+    stars: 21
     forks: 3
-    watching: 4
+    watching: 5
   hubot-group:
     stars: 26
     forks: 13
@@ -165,6 +165,10 @@ repositories:
   assets:
     stars: 4
     forks: 0
+    watching: 2
+  anishathalye:
+    stars: 13
+    forks: 2
     watching: 2
   dotfiles_template:
     stars: 190
@@ -199,7 +203,7 @@ repositories:
     forks: 23
     watching: 8
   cleanlab/cleanvision:
-    stars: 1067
+    stars: 1068
     forks: 73
     watching: 16
   hacker-tools/hacker-tools.github.io:
@@ -210,7 +214,3 @@ repositories:
     stars: 74
     forks: 25
     watching: 10
-  anishathalye:
-    stars: 12
-    forks: 2
-    watching: 2
