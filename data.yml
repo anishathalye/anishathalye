@@ -1,21 +1,21 @@
-date: '2025-05-09T08:22:08.438231'
+date: '2025-05-16T08:22:26.681070'
 user:
   name: anishathalye
-  followers: 4332
+  followers: 4336
   following: 266
-  repos: 66
+  repos: 67
   gists: 3
 repositories:
   dotbot:
-    stars: 7409
-    forks: 299
+    stars: 7422
+    forks: 300
     watching: 58
   git-remote-dropbox:
-    stars: 3098
+    stars: 3099
     forks: 154
     watching: 61
   periscope:
-    stars: 399
+    stars: 400
     forks: 15
     watching: 5
   lumen:
@@ -31,8 +31,8 @@ repositories:
     forks: 9
     watching: 2
   gavel:
-    stars: 456
-    forks: 246
+    stars: 457
+    forks: 247
     watching: 15
   offix:
     stars: 189
@@ -40,7 +40,7 @@ repositories:
     watching: 13
   neural-style:
     stars: 5542
-    forks: 1502
+    forks: 1501
     watching: 220
   obfuscated-gradients:
     stars: 891
@@ -59,19 +59,19 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 10511
-    forks: 825
+    stars: 10526
+    forks: 826
     watching: 87
   porcupine:
-    stars: 1020
-    forks: 57
+    stars: 1022
+    forks: 59
     watching: 22
   synox:
     stars: 27
     forks: 0
     watching: 2
   gemini:
-    stars: 1077
+    stars: 1079
     forks: 249
     watching: 22
   auriga:
@@ -103,15 +103,15 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5136
+    stars: 5144
     forks: 1213
     watching: 45
   missing-semester/videos:
-    stars: 299
+    stars: 300
     forks: 33
     watching: 11
   dcai-course/dcai-course:
-    stars: 99
+    stars: 100
     forks: 14
     watching: 6
   dcai-course/dcai-lab:
@@ -119,12 +119,12 @@ repositories:
     forks: 158
     watching: 13
   bijection/sistine:
-    stars: 3256
+    stars: 3258
     forks: 192
     watching: 76
   dotfiles:
-    stars: 720
-    forks: 274
+    stars: 722
+    forks: 273
     watching: 15
   dotfiles-local:
     stars: 80
@@ -203,11 +203,11 @@ repositories:
     forks: 25
     watching: 8
   cleanlab/cleanvision:
-    stars: 1078
+    stars: 1079
     forks: 74
     watching: 16
   hacker-tools/hacker-tools.github.io:
-    stars: 402
+    stars: 403
     forks: 42
     watching: 22
   mathematics-of-deep-learning:
