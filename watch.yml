@@ -55,6 +55,7 @@
     - countdown
     - unblock
     - assets
+    - cleanlab/office-presence-dashboard
     - anishathalye
 
 - name: Hidden
