@@ -67,6 +67,6 @@
 | [**countdown**](https://github.com/anishathalye/countdown) <br /> ★⁠ ⁠6 | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | A simple countdown timer you can set as your homepage ⏰ |
 | [**unblock**](https://github.com/anishathalye/unblock) <br /> ★⁠ ⁠9 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A tiny utility to make shell pipes behave as if they have unlimited buffering ♾ |
 | [**assets**](https://github.com/anishathalye/assets) <br /> ★⁠ ⁠4 |  | README assets for my GitHub projects 🎭 |
-| [**cleanlab⁠/⁠office⁠-⁠presence⁠-⁠dashboard**](https://github.com/cleanlab/office-presence-dashboard) <br /> ★⁠ ⁠1 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100% vibe coded |
+| [**cleanlab⁠/⁠office⁠-⁠presence⁠-⁠dashboard**](https://github.com/cleanlab/office-presence-dashboard) <br /> ★⁠ ⁠1 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100% vibe coded 🏄‍♂️ |
 | [**anishathalye**](https://github.com/anishathalye/anishathalye) <br /> ★⁠ ⁠14 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A self-updating GitHub profile 🐯 |
 
