@@ -1,26 +1,26 @@
-date: '2025-06-13T08:30:30.965107'
+date: '2025-06-19T05:10:12.385006+00:00'
 user:
   name: anishathalye
-  followers: 4348
+  followers: 4352
   following: 266
   repos: 67
   gists: 3
 repositories:
   dotbot:
-    stars: 7480
+    stars: 7491
     forks: 301
     watching: 58
   git-remote-dropbox:
-    stars: 3100
+    stars: 3102
     forks: 154
     watching: 61
   periscope:
-    stars: 401
+    stars: 402
     forks: 15
     watching: 5
   lumen:
-    stars: 2297
-    forks: 53
+    stars: 2298
+    forks: 54
     watching: 45
   seashells:
     stars: 721
@@ -39,8 +39,8 @@ repositories:
     forks: 28
     watching: 13
   neural-style:
-    stars: 5544
-    forks: 1500
+    stars: 5547
+    forks: 1502
     watching: 220
   obfuscated-gradients:
     stars: 892
@@ -59,11 +59,11 @@ repositories:
     forks: 53
     watching: 3
   cleanlab/cleanlab:
-    stars: 10588
-    forks: 829
+    stars: 10632
+    forks: 831
     watching: 88
   porcupine:
-    stars: 1031
+    stars: 1032
     forks: 60
     watching: 23
   synox:
@@ -71,11 +71,11 @@ repositories:
     forks: 0
     watching: 2
   gemini:
-    stars: 1096
-    forks: 252
+    stars: 1098
+    forks: 253
     watching: 22
   auriga:
-    stars: 370
+    stars: 371
     forks: 34
     watching: 9
   ipr:
@@ -103,8 +103,8 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5169
-    forks: 1212
+    stars: 5173
+    forks: 1214
     watching: 45
   missing-semester/videos:
     stars: 303
@@ -115,24 +115,24 @@ repositories:
     forks: 14
     watching: 6
   dcai-course/dcai-lab:
-    stars: 458
+    stars: 459
     forks: 160
     watching: 14
   bijection/sistine:
-    stars: 3262
+    stars: 3261
     forks: 192
     watching: 76
   dotfiles:
-    stars: 731
-    forks: 270
+    stars: 730
+    forks: 271
     watching: 15
   dotfiles-local:
     stars: 80
     forks: 16
     watching: 3
   proof-html:
-    stars: 79
-    forks: 24
+    stars: 82
+    forks: 25
     watching: 3
   micro-wwvb:
     stars: 21
@@ -203,11 +203,11 @@ repositories:
     forks: 10
     watching: 6
   cleanlab/examples:
-    stars: 125
+    stars: 126
     forks: 26
     watching: 8
   cleanlab/cleanvision:
-    stars: 1094
+    stars: 1098
     forks: 75
     watching: 18
   hacker-tools/hacker-tools.github.io:
