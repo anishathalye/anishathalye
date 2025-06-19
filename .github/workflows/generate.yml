@@ -6,6 +6,7 @@ on:
     - cron: '0 8 * * 5'
 jobs:
   update:
+    name: Update
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -19,9 +20,30 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git diff --quiet README.md || git commit -m "Update" README.md data.yml
+        git diff --quiet README.md data.yml ci-status.md || git add README.md data.yml ci-status.md && git commit -m "Update"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv run ruff check
+  fmt:
+    name: Format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv run ruff format --check
+  typecheck:
+    name: Typecheck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv run mypy --strict .

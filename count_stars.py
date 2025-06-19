@@ -1,9 +1,9 @@
-import yaml
-
 import os
 
+import yaml
 
-def main():
+
+def main() -> None:
     with open(os.path.join(os.path.dirname(__file__), "data.yml")) as f:
         data = yaml.safe_load(f)
 
