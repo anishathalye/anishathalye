@@ -52,7 +52,7 @@
 | | | |
 |---|---|---|
 | [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5.2k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
-| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠303 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
+| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠305 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠100 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠459 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.3k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
