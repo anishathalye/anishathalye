@@ -2,7 +2,7 @@
 
 | Repository | CI Status |
 |---|---|
-| [dotbot](https://github.com/anishathalye/dotbot) | ![CI](https://github.com/anishathalye/dotbot/actions/workflows/ci.yml/badge.svg) |
+| [dotbot](https://github.com/anishathalye/dotbot) | ![CI](https://github.com/anishathalye/dotbot/actions/workflows/ci.yml/badge.svg) ![Release](https://github.com/anishathalye/dotbot/actions/workflows/release.yml/badge.svg) |
 | [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) | ![CI](https://github.com/anishathalye/git-remote-dropbox/actions/workflows/ci.yml/badge.svg) |
 | [periscope](https://github.com/anishathalye/periscope) | ![CI](https://github.com/anishathalye/periscope/actions/workflows/ci.yml/badge.svg) ![Release](https://github.com/anishathalye/periscope/actions/workflows/release.yml/badge.svg) |
 | [seashells](https://github.com/anishathalye/seashells) | ![CI](https://github.com/anishathalye/seashells/actions/workflows/ci.yml/badge.svg) |

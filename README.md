@@ -4,11 +4,11 @@
 |---|---|---|
 | [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠7.5k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
 | [**git⁠-⁠remote⁠-⁠dropbox**](https://github.com/anishathalye/git-remote-dropbox) <br /> ★⁠ ⁠3.1k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁 |
-| [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠402 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
+| [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠403 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
 | [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.3k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
-| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠721 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
+| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠720 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
 | [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠62 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
-| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠454 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
+| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠455 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
 | [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠188 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
 
 <h3 align="center">Machine Learning</h3>
@@ -19,8 +19,8 @@
 | [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠892 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
 | [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠669 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |
 | [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠145 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🌱 |
-| [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠133 |  | Simpler human-readable labels for ImageNet 🏷 |
-| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠10.6k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. |
+| [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠134 |  | Simpler human-readable labels for ImageNet 🏷 |
+| [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠10.7k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. |
 
 <h3 align="center">Libraries</h3>
 
@@ -34,7 +34,7 @@
 | | | |
 |---|---|---|
 | [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠1.1k | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
-| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠371 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
+| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠372 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
 
 <h3 align="center">Formal Verification</h3>
 
@@ -52,7 +52,7 @@
 | | | |
 |---|---|---|
 | [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5.2k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
-| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠305 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
+| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠304 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠100 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠459 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.3k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
