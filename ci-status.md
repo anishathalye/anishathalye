@@ -25,7 +25,7 @@
 | [missing-semester/videos](https://github.com/missing-semester/videos) | ![CI](https://github.com/missing-semester/videos/actions/workflows/ci.yml/badge.svg) |
 | [dcai-course/dcai-course](https://github.com/dcai-course/dcai-course) | ![Build](https://github.com/dcai-course/dcai-course/actions/workflows/build.yml/badge.svg) ![Links](https://github.com/dcai-course/dcai-course/actions/workflows/links.yml/badge.svg) |
 | [dotfiles](https://github.com/anishathalye/dotfiles) | ![CI](https://github.com/anishathalye/dotfiles/actions/workflows/ci.yml/badge.svg) |
-| [dotfiles-local](https://github.com/anishathalye/dotfiles-local) | ![CI](https://github.com/anishathalye/dotfiles-local/actions/workflows/ci.yml/badge.svg) |
+| [dotfiles-local](https://github.com/anishathalye/dotfiles-local) | ![CI](https://github.com/anishathalye/dotfiles-local/actions/workflows/build.yml/badge.svg) ![CI](https://github.com/anishathalye/dotfiles-local/actions/workflows/ci.yml/badge.svg) |
 | [proof-html](https://github.com/anishathalye/proof-html) | ![CI](https://github.com/anishathalye/proof-html/actions/workflows/ci.yml/badge.svg) ![Docker Push](https://github.com/anishathalye/proof-html/actions/workflows/docker.yml/badge.svg) |
 | [bin2coe](https://github.com/anishathalye/bin2coe) | ![CI](https://github.com/anishathalye/bin2coe/actions/workflows/ci.yml/badge.svg) |
 | [unblock](https://github.com/anishathalye/unblock) | ![CI](https://github.com/anishathalye/unblock/actions/workflows/ci.yml/badge.svg) |
