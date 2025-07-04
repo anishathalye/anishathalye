@@ -1,13 +1,13 @@
-date: '2025-07-03T21:24:08.188801+00:00'
+date: '2025-07-04T08:31:09.233684+00:00'
 user:
   name: anishathalye
-  followers: 4358
+  followers: 4359
   following: 266
   repos: 67
   gists: 3
 repositories:
   dotbot:
-    stars: 7509
+    stars: 7510
     forks: 302
     watching: 57
   git-remote-dropbox:
@@ -103,7 +103,7 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5190
+    stars: 5191
     forks: 1220
     watching: 45
   missing-semester/videos:
