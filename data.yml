@@ -1,13 +1,13 @@
-date: '2025-07-11T08:31:59.244679+00:00'
+date: '2025-07-18T08:32:49.016680+00:00'
 user:
   name: anishathalye
-  followers: 4362
+  followers: 4366
   following: 266
   repos: 67
   gists: 3
 repositories:
   dotbot:
-    stars: 7529
+    stars: 7540
     forks: 302
     watching: 57
   git-remote-dropbox:
@@ -19,7 +19,7 @@ repositories:
     forks: 15
     watching: 6
   lumen:
-    stars: 2300
+    stars: 2299
     forks: 55
     watching: 46
   seashells:
@@ -40,10 +40,10 @@ repositories:
     watching: 13
   neural-style:
     stars: 5545
-    forks: 1502
+    forks: 1501
     watching: 221
   obfuscated-gradients:
-    stars: 896
+    stars: 897
     forks: 172
     watching: 48
   neural-hash-collider:
@@ -59,11 +59,11 @@ repositories:
     forks: 53
     watching: 3
   cleanlab/cleanlab:
-    stars: 10685
-    forks: 834
+    stars: 10714
+    forks: 835
     watching: 88
   porcupine:
-    stars: 1039
+    stars: 1041
     forks: 61
     watching: 23
   synox:
@@ -71,11 +71,11 @@ repositories:
     forks: 0
     watching: 2
   gemini:
-    stars: 1112
-    forks: 261
+    stars: 1121
+    forks: 262
     watching: 22
   auriga:
-    stars: 375
+    stars: 376
     forks: 34
     watching: 10
   ipr:
@@ -103,27 +103,27 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5194
-    forks: 1222
+    stars: 5203
+    forks: 1224
     watching: 45
   missing-semester/videos:
     stars: 304
     forks: 33
     watching: 11
   dcai-course/dcai-course:
-    stars: 100
+    stars: 101
     forks: 14
     watching: 6
   dcai-course/dcai-lab:
-    stars: 462
+    stars: 465
     forks: 160
     watching: 14
   bijection/sistine:
-    stars: 3267
+    stars: 3266
     forks: 192
     watching: 76
   dotfiles:
-    stars: 731
+    stars: 732
     forks: 271
     watching: 15
   dotfiles-local:
@@ -131,7 +131,7 @@ repositories:
     forks: 16
     watching: 3
   proof-html:
-    stars: 83
+    stars: 84
     forks: 25
     watching: 3
   micro-wwvb:
@@ -167,7 +167,7 @@ repositories:
     forks: 0
     watching: 2
   cleanlab/office-presence-dashboard:
-    stars: 3
+    stars: 4
     forks: 0
     watching: 2
   anishathalye:
@@ -203,7 +203,7 @@ repositories:
     forks: 10
     watching: 6
   cleanlab/examples:
-    stars: 127
+    stars: 128
     forks: 26
     watching: 8
   cleanlab/cleanvision:
