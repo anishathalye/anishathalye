@@ -8,7 +8,7 @@
 | [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.4k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
 | [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠720 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
 | [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠63 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
-| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠457 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
+| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠458 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
 | [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠188 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
 
 <h3 align="center">Machine Learning</h3>
@@ -34,7 +34,7 @@
 | | | |
 |---|---|---|
 | [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠1.1k | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
-| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠379 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
+| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠380 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
 
 <h3 align="center">Formal Verification</h3>
 
@@ -52,18 +52,18 @@
 | | | |
 |---|---|---|
 | [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5.2k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
-| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠305 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
+| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠306 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠103 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2023 🤖 |
-| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠470 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠471 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.3k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
-| [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠735 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
+| [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠737 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
 | [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠81 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠 |
-| [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠89 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML, check links, and more ✅ |
+| [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠90 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML, check links, and more ✅ |
 | [**micro⁠-⁠wwvb**](https://github.com/anishathalye/micro-wwvb) <br /> ★⁠ ⁠21 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | A tiny WWVB station 📡 |
 | [**hubot⁠-⁠group**](https://github.com/anishathalye/hubot-group) <br /> ★⁠ ⁠26 | ![CoffeeScript](https://img.shields.io/badge/coffeescript-%233e2723.svg?style=for-the-badge&logo=coffeescript&logoColor=%23ffffff) | A hubot script that expands mentions of groups 👫 |
 | [**hubot⁠-⁠shortcut**](https://github.com/anishathalye/hubot-shortcut) <br /> ★⁠ ⁠16 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A macro system for hubot 💨 |
 | [**hubot⁠-⁠conf**](https://github.com/anishathalye/hubot-conf) <br /> ★⁠ ⁠11 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | A simple configuration management system for hubot 🔧 |
-| [**bin2coe**](https://github.com/anishathalye/bin2coe) <br /> ★⁠ ⁠15 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool to convert binary files to COE files 💫 |
+| [**bin2coe**](https://github.com/anishathalye/bin2coe) <br /> ★⁠ ⁠16 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool to convert binary files to COE files 💫 |
 | [**countdown**](https://github.com/anishathalye/countdown) <br /> ★⁠ ⁠6 | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | A simple countdown timer you can set as your homepage ⏰ |
 | [**unblock**](https://github.com/anishathalye/unblock) <br /> ★⁠ ⁠9 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A tiny utility to make shell pipes behave as if they have unlimited buffering ♾ |
 | [**assets**](https://github.com/anishathalye/assets) <br /> ★⁠ ⁠4 |  | README assets for my GitHub projects 🎭 |
