@@ -11,6 +11,7 @@
 
 - name: Machine Learning
   repos:
+    - semlib
     - neural-style
     - obfuscated-gradients
     - neural-hash-collider
