@@ -7,6 +7,7 @@
 | [periscope](https://github.com/anishathalye/periscope) | ![CI](https://github.com/anishathalye/periscope/actions/workflows/ci.yml/badge.svg) ![Release](https://github.com/anishathalye/periscope/actions/workflows/release.yml/badge.svg) |
 | [seashells](https://github.com/anishathalye/seashells) | ![CI](https://github.com/anishathalye/seashells/actions/workflows/ci.yml/badge.svg) |
 | [seashells-server](https://github.com/anishathalye/seashells-server) | ![CI](https://github.com/anishathalye/seashells-server/actions/workflows/ci.yml/badge.svg) |
+| [semlib](https://github.com/anishathalye/semlib) | ![CI](https://github.com/anishathalye/semlib/actions/workflows/ci.yml/badge.svg) ![Docs](https://github.com/anishathalye/semlib/actions/workflows/docs.yml/badge.svg) |
 | [neural-style](https://github.com/anishathalye/neural-style) | ![CI](https://github.com/anishathalye/neural-style/actions/workflows/ci.yml/badge.svg) |
 | [ribosome](https://github.com/anishathalye/ribosome) | ![CI](https://github.com/anishathalye/ribosome/actions/workflows/ci.yml/badge.svg) |
 | [imagenet-simple-labels](https://github.com/anishathalye/imagenet-simple-labels) | ![CI](https://github.com/anishathalye/imagenet-simple-labels/actions/workflows/ci.yml/badge.svg) |
