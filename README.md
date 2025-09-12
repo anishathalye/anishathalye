@@ -4,18 +4,18 @@
 |---|---|---|
 | [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠7.6k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
 | [**git⁠-⁠remote⁠-⁠dropbox**](https://github.com/anishathalye/git-remote-dropbox) <br /> ★⁠ ⁠3.1k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁 |
-| [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠407 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
+| [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠408 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
 | [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.4k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
-| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠721 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
+| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠722 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
 | [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠63 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
-| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠460 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
+| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠461 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
 | [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠189 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
 
 <h3 align="center">Machine Learning</h3>
 
 | | | |
 |---|---|---|
-| [**semlib**](https://github.com/anishathalye/semlib) <br /> ★⁠ ⁠0 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Build data processing and data analysis pipelines that leverage the power of LLMs 🧠 |
+| [**semlib**](https://github.com/anishathalye/semlib) <br /> ★⁠ ⁠30 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Build data processing and data analysis pipelines that leverage the power of LLMs 🧠 |
 | [**neural⁠-⁠style**](https://github.com/anishathalye/neural-style) <br /> ★⁠ ⁠5.5k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Neural style in TensorFlow! 🎨 |
 | [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠900 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
 | [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠673 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |

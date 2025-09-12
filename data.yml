@@ -1,13 +1,13 @@
-date: '2025-09-11T14:42:31.419199+00:00'
+date: '2025-09-12T08:28:06.399605+00:00'
 user:
   name: anishathalye
-  followers: 4404
-  following: 268
+  followers: 4408
+  following: 270
   repos: 68
   gists: 3
 repositories:
   dotbot:
-    stars: 7621
+    stars: 7620
     forks: 301
     watching: 57
   git-remote-dropbox:
@@ -15,7 +15,7 @@ repositories:
     forks: 154
     watching: 61
   periscope:
-    stars: 407
+    stars: 408
     forks: 15
     watching: 6
   lumen:
@@ -23,7 +23,7 @@ repositories:
     forks: 55
     watching: 46
   seashells:
-    stars: 721
+    stars: 722
     forks: 22
     watching: 9
   seashells-server:
@@ -31,7 +31,7 @@ repositories:
     forks: 9
     watching: 2
   gavel:
-    stars: 460
+    stars: 461
     forks: 251
     watching: 14
   offix:
@@ -39,7 +39,7 @@ repositories:
     forks: 28
     watching: 13
   semlib:
-    stars: 0
+    stars: 30
     forks: 0
     watching: 0
   neural-style:
@@ -63,7 +63,7 @@ repositories:
     forks: 53
     watching: 3
   cleanlab/cleanlab:
-    stars: 10877
+    stars: 10879
     forks: 850
     watching: 88
   porcupine:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 5
   missing-semester/missing-semester:
-    stars: 5276
-    forks: 1234
+    stars: 5272
+    forks: 1235
     watching: 44
   missing-semester/videos:
     stars: 307
