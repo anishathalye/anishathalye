@@ -31,7 +31,7 @@
 | [bin2coe](https://github.com/anishathalye/bin2coe) | ![CI](https://github.com/anishathalye/bin2coe/actions/workflows/ci.yml/badge.svg) |
 | [unblock](https://github.com/anishathalye/unblock) | ![CI](https://github.com/anishathalye/unblock/actions/workflows/ci.yml/badge.svg) |
 | [cleanlab/office-presence-dashboard](https://github.com/cleanlab/office-presence-dashboard) | ![CI](https://github.com/cleanlab/office-presence-dashboard/actions/workflows/ci.yml/badge.svg) |
-| [anishathalye](https://github.com/anishathalye/anishathalye) | ![Generate](https://github.com/anishathalye/anishathalye/actions/workflows/generate.yml/badge.svg) |
+| [anishathalye](https://github.com/anishathalye/anishathalye) | ![CI](https://github.com/anishathalye/anishathalye/actions/workflows/ci.yml/badge.svg) |
 | [robust-ml/robust-ml.github.io](https://github.com/robust-ml/robust-ml.github.io) | ![CI](https://github.com/robust-ml/robust-ml.github.io/actions/workflows/build.yml/badge.svg) |
 | [cleanlab/examples](https://github.com/cleanlab/examples) | ![CI](https://github.com/cleanlab/examples/actions/workflows/ci.yml/badge.svg) ![Link Checker](https://github.com/cleanlab/examples/actions/workflows/links.yml/badge.svg) |
 | [cleanlab/cleanvision](https://github.com/cleanlab/cleanvision) | ![CI](https://github.com/cleanlab/cleanvision/actions/workflows/ci.yml/badge.svg) ![GitHub Markdown Links](https://github.com/cleanlab/cleanvision/actions/workflows/links.yml/badge.svg) ![Build and publish distribution](https://github.com/cleanlab/cleanvision/actions/workflows/release.yml/badge.svg) |
