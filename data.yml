@@ -1,14 +1,14 @@
-date: '2025-11-21T08:32:46.170817+00:00'
+date: '2025-11-28T08:32:33.727473+00:00'
 user:
   name: anishathalye
-  followers: 4449
+  followers: 4448
   following: 269
   repos: 68
   gists: 3
 repositories:
   dotbot:
-    stars: 7687
-    forks: 309
+    stars: 7695
+    forks: 310
     watching: 55
   git-remote-dropbox:
     stars: 3114
@@ -19,7 +19,7 @@ repositories:
     forks: 15
     watching: 5
   lumen:
-    stars: 2411
+    stars: 2412
     forks: 55
     watching: 44
   seashells:
@@ -31,11 +31,11 @@ repositories:
     forks: 9
     watching: 1
   gavel:
-    stars: 469
+    stars: 470
     forks: 257
     watching: 13
   offix:
-    stars: 191
+    stars: 192
     forks: 28
     watching: 12
   semlib:
@@ -63,11 +63,11 @@ repositories:
     forks: 53
     watching: 2
   cleanlab/cleanlab:
-    stars: 11096
-    forks: 874
+    stars: 11113
+    forks: 873
     watching: 84
   porcupine:
-    stars: 1108
+    stars: 1110
     forks: 64
     watching: 22
   synox:
@@ -75,12 +75,12 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1168
-    forks: 281
+    stars: 1175
+    forks: 282
     watching: 20
   auriga:
-    stars: 388
-    forks: 35
+    stars: 387
+    forks: 36
     watching: 9
   ipr:
     stars: 5
@@ -91,7 +91,7 @@ repositories:
     forks: 2
     watching: 2
   knox-hsm:
-    stars: 25
+    stars: 26
     forks: 2
     watching: 3
   chroniton:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5363
-    forks: 1291
+    stars: 5374
+    forks: 1293
     watching: 43
   missing-semester/videos:
     stars: 308
@@ -124,10 +124,10 @@ repositories:
     watching: 13
   bijection/sistine:
     stars: 3268
-    forks: 193
+    forks: 192
     watching: 73
   dotfiles:
-    stars: 743
+    stars: 745
     forks: 269
     watching: 14
   dotfiles-local:
@@ -180,7 +180,7 @@ repositories:
     watching: 1
   dotfiles_template:
     stars: 198
-    forks: 226
+    forks: 225
     watching: 5
   robust-ml/robust-ml.github.io:
     stars: 50
@@ -207,7 +207,7 @@ repositories:
     forks: 10
     watching: 5
   cleanlab/examples:
-    stars: 129
+    stars: 131
     forks: 26
     watching: 6
   cleanlab/cleanvision:
@@ -215,7 +215,7 @@ repositories:
     forks: 74
     watching: 17
   hacker-tools/hacker-tools.github.io:
-    stars: 403
+    stars: 404
     forks: 42
     watching: 22
   mathematics-of-deep-learning:

@@ -8,8 +8,8 @@
 | [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.4k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
 | [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠723 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
 | [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠66 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
-| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠469 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
-| [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠191 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
+| [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠470 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
+| [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠192 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
 
 <h3 align="center">Machine Learning</h3>
 
@@ -35,7 +35,7 @@
 | | | |
 |---|---|---|
 | [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠1.2k | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
-| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠388 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
+| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠387 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
 
 <h3 align="center">Formal Verification</h3>
 
@@ -43,7 +43,7 @@
 |---|---|---|
 | [**ipr**](https://github.com/anishathalye/ipr) <br /> ★⁠ ⁠5 | ![Rocq Prover](https://img.shields.io/badge/rocq-%23ff540a.svg?style=for-the-badge&logoColor=white) | A formalization of information-preserving refinement (IPR) in the Rocq Proof Assistant 🧩 |
 | [**knox**](https://github.com/anishathalye/knox) <br /> ★⁠ ⁠40 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | A framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities 🔏 |
-| [**knox⁠-⁠hsm**](https://github.com/anishathalye/knox-hsm) <br /> ★⁠ ⁠25 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Circuits and hardware security modules formally verified with Knox 🔐 |
+| [**knox⁠-⁠hsm**](https://github.com/anishathalye/knox-hsm) <br /> ★⁠ ⁠26 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Circuits and hardware security modules formally verified with Knox 🔐 |
 | [**chroniton**](https://github.com/anishathalye/chroniton) <br /> ★⁠ ⁠13 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | A tool for formally verifying constant-time software against hardware 🕰️ |
 | [**rtlv**](https://github.com/anishathalye/rtlv) <br /> ★⁠ ⁠19 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | Tools for reasoning about circuits in Rosette/Racket 🔌 |
 | [**notary**](https://github.com/anishathalye/notary) <br /> ★⁠ ⁠28 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Notary: A Device for Secure Transaction Approval 📟 |
@@ -57,7 +57,7 @@
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠103 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2024 🤖 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠476 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.3k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
-| [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠743 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
+| [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠745 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
 | [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠82 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠 |
 | [**proof⁠-⁠html**](https://github.com/anishathalye/proof-html) <br /> ★⁠ ⁠104 | ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) | A GitHub Action to validate HTML, check links, and more ✅ |
 | [**micro⁠-⁠wwvb**](https://github.com/anishathalye/micro-wwvb) <br /> ★⁠ ⁠26 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | A tiny WWVB station 📡 |
