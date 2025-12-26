@@ -1,25 +1,25 @@
-date: '2025-12-19T08:34:03.009298+00:00'
+date: '2025-12-26T08:33:09.759026+00:00'
 user:
   name: anishathalye
-  followers: 4446
-  following: 269
+  followers: 4450
+  following: 268
   repos: 68
   gists: 3
 repositories:
   dotbot:
-    stars: 7714
-    forks: 310
-    watching: 55
+    stars: 7723
+    forks: 312
+    watching: 56
   git-remote-dropbox:
-    stars: 3122
+    stars: 3120
     forks: 155
     watching: 61
   periscope:
-    stars: 411
+    stars: 412
     forks: 15
     watching: 5
   lumen:
-    stars: 2414
+    stars: 2415
     forks: 55
     watching: 44
   seashells:
@@ -44,7 +44,7 @@ repositories:
     watching: 2
   neural-style:
     stars: 5551
-    forks: 1499
+    forks: 1498
     watching: 217
   obfuscated-gradients:
     stars: 904
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 2
   cleanlab/cleanlab:
-    stars: 11207
-    forks: 875
+    stars: 11224
+    forks: 874
     watching: 86
   porcupine:
-    stars: 1119
+    stars: 1123
     forks: 65
     watching: 22
   synox:
@@ -75,8 +75,8 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1184
-    forks: 284
+    stars: 1185
+    forks: 285
     watching: 20
   auriga:
     stars: 394
@@ -107,15 +107,15 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5385
-    forks: 1296
+    stars: 5386
+    forks: 1297
     watching: 43
   missing-semester/videos:
     stars: 308
     forks: 32
     watching: 9
   dcai-course/dcai-course:
-    stars: 103
+    stars: 104
     forks: 15
     watching: 5
   dcai-course/dcai-lab:
@@ -128,7 +128,7 @@ repositories:
     watching: 73
   dotfiles:
     stars: 746
-    forks: 269
+    forks: 268
     watching: 14
   dotfiles-local:
     stars: 82
@@ -208,10 +208,10 @@ repositories:
     watching: 5
   cleanlab/examples:
     stars: 131
-    forks: 26
+    forks: 27
     watching: 6
   cleanlab/cleanvision:
-    stars: 1134
+    stars: 1137
     forks: 75
     watching: 16
   hacker-tools/hacker-tools.github.io:
