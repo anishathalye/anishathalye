@@ -1,13 +1,13 @@
-date: '2026-01-16T08:35:23.223276+00:00'
+date: '2026-01-17T19:56:27.631845+00:00'
 user:
   name: anishathalye
-  followers: 4466
+  followers: 4468
   following: 268
   repos: 68
   gists: 3
 repositories:
   dotbot:
-    stars: 7752
+    stars: 7753
     forks: 313
     watching: 57
   git-remote-dropbox:
@@ -63,8 +63,8 @@ repositories:
     forks: 52
     watching: 2
   cleanlab/cleanlab:
-    stars: 11259
-    forks: 878
+    stars: 11260
+    forks: 879
     watching: 86
   porcupine:
     stars: 1132
@@ -75,7 +75,7 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1185
+    stars: 1186
     forks: 286
     watching: 19
   auriga:
@@ -107,7 +107,7 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5434
+    stars: 5444
     forks: 1303
     watching: 43
   missing-semester/videos:
@@ -179,8 +179,8 @@ repositories:
     forks: 4
     watching: 1
   dotfiles_template:
-    stars: 197
-    forks: 224
+    stars: 198
+    forks: 223
     watching: 5
   robust-ml/robust-ml.github.io:
     stars: 51
