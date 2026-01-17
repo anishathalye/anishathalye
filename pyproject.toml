@@ -16,23 +16,25 @@ dev = [
     "types-pyyaml>=6.0.12.20250516",
 ]
 
+[tool.mypy]
+strict = true
+
 [tool.ruff]
 line-length = 120
 lint.select = [
-  # pycodestyle
-  "E",
-  # Pyflakes
-  "F",
-  # pyupgrade
-  "UP",
-  # flake8-bugbear
-  "B",
-  # flake8-simplify
-  "SIM",
-  # isort
-  "I",
-  # whitespace at EOL, empty line, and missing newline at EOF
-  "W291",
-  "W292",
-  "W293",
+    # pycodestyle
+    "E",
+    "W",
+    # Pyflakes
+    "F",
+    # pyupgrade
+    "UP",
+    # flake8-bugbear
+    "B",
+    # flake8-simplify
+    "SIM",
+    # isort
+    "I",
+    # ruff-specific rules
+    "RUF",
 ]
