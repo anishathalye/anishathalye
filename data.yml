@@ -1,17 +1,17 @@
-date: '2026-03-06T08:43:29.427022+00:00'
+date: '2026-03-13T08:48:16.342075+00:00'
 user:
   name: anishathalye
-  followers: 4500
+  followers: 4510
   following: 273
   repos: 70
   gists: 3
 repositories:
   dotbot:
-    stars: 7820
-    forks: 314
-    watching: 57
+    stars: 7827
+    forks: 317
+    watching: 55
   git-remote-dropbox:
-    stars: 3128
+    stars: 3129
     forks: 156
     watching: 62
   periscope:
@@ -19,11 +19,11 @@ repositories:
     forks: 15
     watching: 4
   lumen:
-    stars: 2422
+    stars: 2420
     forks: 56
     watching: 43
   seashells:
-    stars: 724
+    stars: 725
     forks: 22
     watching: 8
   seashells-server:
@@ -39,12 +39,12 @@ repositories:
     forks: 28
     watching: 12
   semlib:
-    stars: 250
+    stars: 251
     forks: 8
     watching: 2
   neural-style:
     stars: 5548
-    forks: 1496
+    forks: 1495
     watching: 215
   obfuscated-gradients:
     stars: 907
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11357
-    forks: 879
+    stars: 11367
+    forks: 880
     watching: 86
   porcupine:
-    stars: 1150
+    stars: 1154
     forks: 65
     watching: 22
   synox:
@@ -75,12 +75,12 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1202
-    forks: 291
+    stars: 1205
+    forks: 292
     watching: 19
   auriga:
     stars: 396
-    forks: 36
+    forks: 35
     watching: 8
   ipr:
     stars: 5
@@ -107,11 +107,11 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5576
-    forks: 1330
+    stars: 5590
+    forks: 1336
     watching: 46
   missing-semester/videos:
-    stars: 345
+    stars: 344
     forks: 33
     watching: 9
   dcai-course/dcai-course:
@@ -123,11 +123,11 @@ repositories:
     forks: 162
     watching: 13
   bijection/sistine:
-    stars: 3291
+    stars: 3293
     forks: 191
     watching: 73
   dotfiles:
-    stars: 753
+    stars: 754
     forks: 269
     watching: 14
   dotfiles-local:
@@ -135,7 +135,7 @@ repositories:
     forks: 16
     watching: 2
   proof-html:
-    stars: 115
+    stars: 116
     forks: 34
     watching: 2
   micro-wwvb:
@@ -203,7 +203,7 @@ repositories:
     forks: 35
     watching: 35
   cleanlab/label-errors:
-    stars: 186
+    stars: 187
     forks: 11
     watching: 5
   cleanlab/examples:
