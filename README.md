@@ -9,18 +9,18 @@
 | [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠725 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
 | [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠67 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
 | [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠475 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
-| [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠192 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
+| [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠193 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
 
 <h3 align="center">Machine Learning</h3>
 
 | | | |
 |---|---|---|
-| [**semlib**](https://github.com/anishathalye/semlib) <br /> ★⁠ ⁠251 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Build data processing and data analysis pipelines that leverage the power of LLMs 🧠 |
+| [**semlib**](https://github.com/anishathalye/semlib) <br /> ★⁠ ⁠252 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Build data processing and data analysis pipelines that leverage the power of LLMs 🧠 |
 | [**neural⁠-⁠style**](https://github.com/anishathalye/neural-style) <br /> ★⁠ ⁠5.5k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Neural style in TensorFlow! 🎨 |
-| [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠907 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
-| [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠673 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |
-| [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠149 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🧬 |
-| [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠144 |  | Simpler human-readable labels for ImageNet 🏷 |
+| [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠906 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
+| [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠672 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |
+| [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠151 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🧬 |
+| [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠145 |  | Simpler human-readable labels for ImageNet 🏷 |
 | [**cleanlab⁠/⁠cleanlab**](https://github.com/cleanlab/cleanlab) <br /> ★⁠ ⁠11.4k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. |
 
 <h3 align="center">Libraries</h3>
@@ -68,6 +68,6 @@
 | [**countdown**](https://github.com/anishathalye/countdown) <br /> ★⁠ ⁠6 | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | A simple countdown timer you can set as your homepage ⏰ |
 | [**unblock**](https://github.com/anishathalye/unblock) <br /> ★⁠ ⁠9 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A tiny utility to make shell pipes behave as if they have unlimited buffering ♾ |
 | [**assets**](https://github.com/anishathalye/assets) <br /> ★⁠ ⁠4 |  | README assets for my GitHub projects 🎭 |
-| [**cleanlab⁠/⁠office⁠-⁠presence⁠-⁠dashboard**](https://github.com/cleanlab/office-presence-dashboard) <br /> ★⁠ ⁠5 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100% vibe coded 🏄‍♂️ |
+| [**cleanlab⁠/⁠office⁠-⁠presence⁠-⁠dashboard**](https://github.com/cleanlab/office-presence-dashboard) <br /> ★⁠ ⁠6 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100% vibe coded 🏄‍♂️ |
 | [**anishathalye**](https://github.com/anishathalye/anishathalye) <br /> ★⁠ ⁠15 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A self-updating GitHub profile 🐯 |
 
