@@ -1,25 +1,25 @@
-date: '2026-04-10T09:15:06.047391+00:00'
+date: '2026-04-17T09:22:40.703067+00:00'
 user:
   name: anishathalye
-  followers: 4524
+  followers: 4529
   following: 274
   repos: 70
   gists: 3
 repositories:
   dotbot:
-    stars: 7876
-    forks: 316
-    watching: 57
+    stars: 7883
+    forks: 315
+    watching: 56
   git-remote-dropbox:
     stars: 3130
     forks: 153
     watching: 62
   periscope:
-    stars: 417
+    stars: 418
     forks: 15
     watching: 4
   lumen:
-    stars: 2421
+    stars: 2423
     forks: 56
     watching: 43
   seashells:
@@ -32,7 +32,7 @@ repositories:
     watching: 1
   gavel:
     stars: 477
-    forks: 262
+    forks: 263
     watching: 13
   offix:
     stars: 192
@@ -43,8 +43,8 @@ repositories:
     forks: 8
     watching: 2
   neural-style:
-    stars: 5549
-    forks: 1493
+    stars: 5548
+    forks: 1492
     watching: 214
   obfuscated-gradients:
     stars: 907
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11414
-    forks: 885
+    stars: 11433
+    forks: 886
     watching: 86
   porcupine:
-    stars: 1176
+    stars: 1177
     forks: 66
     watching: 22
   synox:
@@ -75,8 +75,8 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1219
-    forks: 296
+    stars: 1225
+    forks: 299
     watching: 19
   auriga:
     stars: 398
@@ -107,11 +107,11 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5651
-    forks: 1344
+    stars: 5668
+    forks: 1353
     watching: 46
   missing-semester/videos:
-    stars: 345
+    stars: 347
     forks: 33
     watching: 9
   dcai-course/dcai-course:
@@ -123,8 +123,8 @@ repositories:
     forks: 162
     watching: 13
   bijection/sistine:
-    stars: 3413
-    forks: 200
+    stars: 3416
+    forks: 199
     watching: 73
   dotfiles:
     stars: 754
@@ -135,8 +135,8 @@ repositories:
     forks: 16
     watching: 2
   proof-html:
-    stars: 116
-    forks: 35
+    stars: 117
+    forks: 36
     watching: 2
   micro-wwvb:
     stars: 27
@@ -171,7 +171,7 @@ repositories:
     forks: 0
     watching: 1
   cleanlab/office-presence-dashboard:
-    stars: 7
+    stars: 8
     forks: 0
     watching: 2
   anishathalye:
@@ -192,14 +192,14 @@ repositories:
     watching: 4
   labsix/limited-blackbox-attacks:
     stars: 178
-    forks: 42
+    forks: 43
     watching: 8
   labsix/adversarial-logit-pairing-analysis:
     stars: 60
     forks: 11
     watching: 5
   evaluating-adversarial-robustness/adv-eval-paper:
-    stars: 260
+    stars: 261
     forks: 35
     watching: 35
   cleanlab/label-errors:
@@ -212,7 +212,7 @@ repositories:
     watching: 6
   cleanlab/cleanvision:
     stars: 1170
-    forks: 78
+    forks: 79
     watching: 16
   hacker-tools/hacker-tools.github.io:
     stars: 406
