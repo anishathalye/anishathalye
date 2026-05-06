@@ -1,19 +1,19 @@
-date: '2026-05-01T09:49:08.578297+00:00'
+date: '2026-05-06T17:16:52.345270+00:00'
 user:
   name: anishathalye
-  followers: 4541
+  followers: 4548
   following: 274
   repos: 71
   gists: 3
 repositories:
   dotbot:
-    stars: 7896
+    stars: 7904
     forks: 316
     watching: 56
   git-remote-dropbox:
-    stars: 3131
-    forks: 153
-    watching: 62
+    stars: 3132
+    forks: 154
+    watching: 63
   periscope:
     stars: 418
     forks: 15
@@ -43,7 +43,7 @@ repositories:
     forks: 8
     watching: 2
   neural-style:
-    stars: 5543
+    stars: 5544
     forks: 1491
     watching: 213
   obfuscated-gradients:
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11448
-    forks: 890
+    stars: 11451
+    forks: 892
     watching: 86
   porcupine:
-    stars: 1182
+    stars: 1189
     forks: 66
     watching: 22
   synox:
@@ -76,10 +76,10 @@ repositories:
     watching: 1
   gemini:
     stars: 1230
-    forks: 302
+    forks: 303
     watching: 19
   auriga:
-    stars: 396
+    stars: 398
     forks: 37
     watching: 8
   ipr:
@@ -107,7 +107,7 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5691
+    stars: 5727
     forks: 1360
     watching: 46
   missing-semester/videos:
@@ -119,12 +119,12 @@ repositories:
     forks: 14
     watching: 5
   dcai-course/dcai-lab:
-    stars: 481
-    forks: 162
+    stars: 480
+    forks: 163
     watching: 13
   bijection/sistine:
-    stars: 3417
-    forks: 199
+    stars: 3419
+    forks: 198
     watching: 73
   dotfiles:
     stars: 754
@@ -135,7 +135,7 @@ repositories:
     forks: 16
     watching: 2
   proof-html:
-    stars: 117
+    stars: 120
     forks: 37
     watching: 2
   micro-wwvb:
@@ -211,7 +211,7 @@ repositories:
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1171
+    stars: 1172
     forks: 80
     watching: 16
   hacker-tools/hacker-tools.github.io:
@@ -222,3 +222,15 @@ repositories:
     stars: 75
     forks: 25
     watching: 9
+  Handshake-AI-Research/bankertoolbench:
+    stars: 20
+    forks: 0
+    watching: 0
+  Handshake-AI-Research/gandalf-the-grader:
+    stars: 10
+    forks: 0
+    watching: 0
+  Handshake-AI-Research/rle-pkg:
+    stars: 5
+    forks: 0
+    watching: 0
