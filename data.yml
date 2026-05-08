@@ -1,13 +1,13 @@
-date: '2026-05-06T17:16:52.345270+00:00'
+date: '2026-05-08T09:26:49.779454+00:00'
 user:
   name: anishathalye
-  followers: 4548
+  followers: 4547
   following: 274
   repos: 71
   gists: 3
 repositories:
   dotbot:
-    stars: 7904
+    stars: 7907
     forks: 316
     watching: 56
   git-remote-dropbox:
@@ -44,7 +44,7 @@ repositories:
     watching: 2
   neural-style:
     stars: 5544
-    forks: 1491
+    forks: 1490
     watching: 213
   obfuscated-gradients:
     stars: 907
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11451
+    stars: 11453
     forks: 892
     watching: 86
   porcupine:
-    stars: 1189
+    stars: 1190
     forks: 66
     watching: 22
   synox:
@@ -75,7 +75,7 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1230
+    stars: 1232
     forks: 303
     watching: 19
   auriga:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5727
-    forks: 1360
+    stars: 5740
+    forks: 1361
     watching: 46
   missing-semester/videos:
     stars: 347
@@ -191,7 +191,7 @@ repositories:
     forks: 7
     watching: 4
   labsix/limited-blackbox-attacks:
-    stars: 178
+    stars: 179
     forks: 43
     watching: 8
   labsix/adversarial-logit-pairing-analysis:
@@ -203,7 +203,7 @@ repositories:
     forks: 35
     watching: 35
   cleanlab/label-errors:
-    stars: 187
+    stars: 188
     forks: 11
     watching: 5
   cleanlab/examples:
