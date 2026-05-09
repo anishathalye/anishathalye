@@ -1,4 +1,4 @@
-date: '2026-05-08T09:26:49.779454+00:00'
+date: '2026-05-09T16:07:46.252472+00:00'
 user:
   name: anishathalye
   followers: 4547
@@ -7,7 +7,7 @@ user:
   gists: 3
 repositories:
   dotbot:
-    stars: 7907
+    stars: 7909
     forks: 316
     watching: 56
   git-remote-dropbox:
@@ -31,7 +31,7 @@ repositories:
     forks: 9
     watching: 1
   gavel:
-    stars: 479
+    stars: 480
     forks: 264
     watching: 13
   offix:
@@ -63,8 +63,8 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11453
-    forks: 892
+    stars: 11455
+    forks: 891
     watching: 86
   porcupine:
     stars: 1190
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5740
-    forks: 1361
+    stars: 5757
+    forks: 1364
     watching: 46
   missing-semester/videos:
     stars: 347
