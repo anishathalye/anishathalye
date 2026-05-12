@@ -9,8 +9,8 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: astral-sh/setup-uv@v5
+    - uses: actions/checkout@v6
+    - uses: astral-sh/setup-uv@v8.1.0
     - name: Re-generate README
       run: |
         uv run generate.py --token $GITHUB_TOKEN --default-user anishathalye
@@ -30,20 +30,20 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v5
+      - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v8.1.0
       - run: uv run ruff check
   fmt:
     name: Format
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v5
+      - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v8.1.0
       - run: uv run ruff format --check
   typecheck:
     name: Typecheck
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v5
+      - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v8.1.0
       - run: uv run mypy .
