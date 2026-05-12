@@ -1,14 +1,14 @@
-date: '2026-05-09T16:07:46.252472+00:00'
+date: '2026-05-12T15:30:14.490237+00:00'
 user:
   name: anishathalye
-  followers: 4547
+  followers: 4548
   following: 274
   repos: 71
   gists: 3
 repositories:
   dotbot:
-    stars: 7909
-    forks: 316
+    stars: 7913
+    forks: 315
     watching: 56
   git-remote-dropbox:
     stars: 3132
@@ -31,8 +31,8 @@ repositories:
     forks: 9
     watching: 1
   gavel:
-    stars: 480
-    forks: 264
+    stars: 481
+    forks: 266
     watching: 13
   offix:
     stars: 192
@@ -43,7 +43,7 @@ repositories:
     forks: 8
     watching: 2
   neural-style:
-    stars: 5544
+    stars: 5543
     forks: 1490
     watching: 213
   obfuscated-gradients:
@@ -63,8 +63,8 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11455
-    forks: 891
+    stars: 11459
+    forks: 890
     watching: 86
   porcupine:
     stars: 1190
@@ -75,7 +75,7 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1232
+    stars: 1233
     forks: 303
     watching: 19
   auriga:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5757
-    forks: 1364
+    stars: 5775
+    forks: 1365
     watching: 46
   missing-semester/videos:
     stars: 347
@@ -120,10 +120,10 @@ repositories:
     watching: 5
   dcai-course/dcai-lab:
     stars: 480
-    forks: 163
+    forks: 162
     watching: 13
   bijection/sistine:
-    stars: 3419
+    stars: 3420
     forks: 198
     watching: 73
   dotfiles:
@@ -135,7 +135,7 @@ repositories:
     forks: 16
     watching: 2
   proof-html:
-    stars: 120
+    stars: 122
     forks: 37
     watching: 2
   micro-wwvb:
@@ -166,6 +166,10 @@ repositories:
     stars: 9
     forks: 0
     watching: 1
+  ai-agent-security-lecture:
+    stars: 0
+    forks: 0
+    watching: 0
   assets:
     stars: 4
     forks: 0
@@ -199,7 +203,7 @@ repositories:
     forks: 11
     watching: 5
   evaluating-adversarial-robustness/adv-eval-paper:
-    stars: 261
+    stars: 260
     forks: 35
     watching: 35
   cleanlab/label-errors:
@@ -211,8 +215,8 @@ repositories:
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1172
-    forks: 80
+    stars: 1173
+    forks: 82
     watching: 16
   hacker-tools/hacker-tools.github.io:
     stars: 406
