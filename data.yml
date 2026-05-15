@@ -1,13 +1,13 @@
-date: '2026-05-12T15:33:12.875217+00:00'
+date: '2026-05-15T10:27:57.203979+00:00'
 user:
   name: anishathalye
-  followers: 4548
+  followers: 4550
   following: 274
   repos: 71
   gists: 3
 repositories:
   dotbot:
-    stars: 7913
+    stars: 7914
     forks: 315
     watching: 56
   git-remote-dropbox:
@@ -19,8 +19,8 @@ repositories:
     forks: 15
     watching: 4
   lumen:
-    stars: 2422
-    forks: 56
+    stars: 2421
+    forks: 57
     watching: 43
   seashells:
     stars: 725
@@ -63,8 +63,8 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11459
-    forks: 890
+    stars: 11468
+    forks: 892
     watching: 86
   porcupine:
     stars: 1190
@@ -75,8 +75,8 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1233
-    forks: 303
+    stars: 1234
+    forks: 304
     watching: 19
   auriga:
     stars: 398
@@ -107,11 +107,11 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5775
-    forks: 1365
+    stars: 5781
+    forks: 1367
     watching: 46
   missing-semester/videos:
-    stars: 347
+    stars: 348
     forks: 33
     watching: 9
   dcai-course/dcai-course:
@@ -119,11 +119,11 @@ repositories:
     forks: 14
     watching: 5
   dcai-course/dcai-lab:
-    stars: 480
+    stars: 479
     forks: 162
     watching: 13
   bijection/sistine:
-    stars: 3420
+    stars: 3418
     forks: 198
     watching: 73
   dotfiles:
@@ -215,7 +215,7 @@ repositories:
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1173
+    stars: 1174
     forks: 82
     watching: 16
   hacker-tools/hacker-tools.github.io:
@@ -231,7 +231,7 @@ repositories:
     forks: 0
     watching: 0
   Handshake-AI-Research/gandalf-the-grader:
-    stars: 10
+    stars: 11
     forks: 0
     watching: 0
   Handshake-AI-Research/rle-pkg:
