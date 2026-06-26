@@ -1,33 +1,33 @@
-date: '2026-06-19T12:09:57.359640+00:00'
+date: '2026-06-26T10:54:14.116201+00:00'
 user:
   name: anishathalye
-  followers: 4561
+  followers: 4566
   following: 275
   repos: 71
   gists: 3
 repositories:
   dotbot:
-    stars: 7946
+    stars: 7952
     forks: 316
     watching: 56
   git-remote-dropbox:
-    stars: 3137
+    stars: 3138
     forks: 154
-    watching: 63
+    watching: 62
   periscope:
     stars: 421
     forks: 15
-    watching: 4
+    watching: 5
   lumen:
-    stars: 2423
+    stars: 2424
     forks: 57
-    watching: 43
+    watching: 42
   seashells:
-    stars: 726
+    stars: 727
     forks: 21
     watching: 8
   seashells-server:
-    stars: 68
+    stars: 69
     forks: 9
     watching: 1
   gavel:
@@ -39,15 +39,15 @@ repositories:
     forks: 27
     watching: 13
   semlib:
-    stars: 259
+    stars: 262
     forks: 8
     watching: 2
   neural-style:
-    stars: 5537
+    stars: 5536
     forks: 1489
     watching: 213
   obfuscated-gradients:
-    stars: 908
+    stars: 910
     forks: 171
     watching: 45
   neural-hash-collider:
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11514
+    stars: 11528
     forks: 902
     watching: 86
   porcupine:
-    stars: 1218
+    stars: 1220
     forks: 69
     watching: 22
   synox:
@@ -76,10 +76,10 @@ repositories:
     watching: 1
   gemini:
     stars: 1250
-    forks: 307
-    watching: 19
+    forks: 308
+    watching: 20
   auriga:
-    stars: 400
+    stars: 399
     forks: 38
     watching: 8
   ipr:
@@ -99,7 +99,7 @@ repositories:
     forks: 0
     watching: 1
   rtlv:
-    stars: 19
+    stars: 20
     forks: 4
     watching: 2
   notary:
@@ -107,23 +107,23 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5849
-    forks: 1391
+    stars: 5867
+    forks: 1402
     watching: 46
   missing-semester/videos:
-    stars: 351
-    forks: 33
+    stars: 353
+    forks: 34
     watching: 9
   dcai-course/dcai-course:
     stars: 108
     forks: 14
     watching: 5
   dcai-course/dcai-lab:
-    stars: 480
+    stars: 481
     forks: 162
     watching: 13
   bijection/sistine:
-    stars: 3416
+    stars: 3415
     forks: 199
     watching: 73
   dotfiles:
@@ -167,8 +167,8 @@ repositories:
     forks: 0
     watching: 1
   ai-agent-security-lecture:
-    stars: 28
-    forks: 0
+    stars: 29
+    forks: 1
     watching: 0
   assets:
     stars: 5
@@ -179,12 +179,12 @@ repositories:
     forks: 0
     watching: 2
   anishathalye:
-    stars: 16
+    stars: 17
     forks: 4
     watching: 1
   dotfiles_template:
-    stars: 202
-    forks: 216
+    stars: 203
+    forks: 215
     watching: 5
   robust-ml/robust-ml.github.io:
     stars: 52
@@ -211,12 +211,12 @@ repositories:
     forks: 11
     watching: 5
   cleanlab/examples:
-    stars: 135
+    stars: 136
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1188
-    forks: 84
+    stars: 1187
+    forks: 83
     watching: 16
   hacker-tools/hacker-tools.github.io:
     stars: 407
@@ -227,12 +227,12 @@ repositories:
     forks: 25
     watching: 9
   Handshake-AI-Research/bankertoolbench:
-    stars: 29
+    stars: 33
     forks: 2
     watching: 0
   Handshake-AI-Research/gandalf-the-grader:
-    stars: 42
-    forks: 0
+    stars: 45
+    forks: 1
     watching: 0
   Handshake-AI-Research/rle-pkg:
     stars: 5

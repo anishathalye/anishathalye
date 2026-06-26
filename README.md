@@ -2,12 +2,12 @@
 
 | | | |
 |---|---|---|
-| [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠7.9k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
+| [**dotbot**](https://github.com/anishathalye/dotbot) <br /> ★⁠ ⁠8k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool that bootstraps your dotfiles ⚡️ |
 | [**git⁠-⁠remote⁠-⁠dropbox**](https://github.com/anishathalye/git-remote-dropbox) <br /> ★⁠ ⁠3.1k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁 |
 | [**periscope**](https://github.com/anishathalye/periscope) <br /> ★⁠ ⁠421 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭 |
 | [**lumen**](https://github.com/anishathalye/lumen) <br /> ★⁠ ⁠2.4k | ![Objective-C](https://img.shields.io/badge/objective--c-%23387bcc.svg?style=for-the-badge&logo=apple&logoColor=white) | Magic auto brightness based on screen contents 💡 |
-| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠726 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
-| [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠68 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
+| [**seashells**](https://github.com/anishathalye/seashells) <br /> ★⁠ ⁠727 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | The official client for seashells.io 🐚 |
+| [**seashells⁠-⁠server**](https://github.com/anishathalye/seashells-server) <br /> ★⁠ ⁠69 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | The seashells.io server 🐚 |
 | [**gavel**](https://github.com/anishathalye/gavel) <br /> ★⁠ ⁠486 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A project expo judging system 📊 |
 | [**offix**](https://github.com/anishathalye/offix) <br /> ★⁠ ⁠193 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | "Who is in the office?" 👀 |
 
@@ -15,9 +15,9 @@
 
 | | | |
 |---|---|---|
-| [**semlib**](https://github.com/anishathalye/semlib) <br /> ★⁠ ⁠259 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Build data processing and data analysis pipelines that leverage the power of LLMs 🧠 |
+| [**semlib**](https://github.com/anishathalye/semlib) <br /> ★⁠ ⁠262 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Build data processing and data analysis pipelines that leverage the power of LLMs 🧠 |
 | [**neural⁠-⁠style**](https://github.com/anishathalye/neural-style) <br /> ★⁠ ⁠5.5k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Neural style in TensorFlow! 🎨 |
-| [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠908 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
+| [**obfuscated⁠-⁠gradients**](https://github.com/anishathalye/obfuscated-gradients) <br /> ★⁠ ⁠910 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples |
 | [**neural⁠-⁠hash⁠-⁠collider**](https://github.com/anishathalye/neural-hash-collider) <br /> ★⁠ ⁠673 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Preimage attack against NeuralHash 💣 |
 | [**ribosome**](https://github.com/anishathalye/ribosome) <br /> ★⁠ ⁠153 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Synthesize photos from PhotoDNA using machine learning 🧬 |
 | [**imagenet⁠-⁠simple⁠-⁠labels**](https://github.com/anishathalye/imagenet-simple-labels) <br /> ★⁠ ⁠148 |  | Simpler human-readable labels for ImageNet 🏷 |
@@ -35,7 +35,7 @@
 | | | |
 |---|---|---|
 | [**gemini**](https://github.com/anishathalye/gemini) <br /> ★⁠ ⁠1.2k | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Gemini is a modern LaTex beamerposter theme 🖼 |
-| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠400 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
+| [**auriga**](https://github.com/anishathalye/auriga) <br /> ★⁠ ⁠399 | ![TeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | Auriga is a minimalist LaTeX beamer presentation theme 📽 |
 
 <h3 align="center">Formal Verification</h3>
 
@@ -45,17 +45,17 @@
 | [**knox**](https://github.com/anishathalye/knox) <br /> ★⁠ ⁠42 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | A framework for formally verifying hardware security modules to be free of hardware, software, and timing side-channel vulnerabilities 🔏 |
 | [**knox⁠-⁠hsm**](https://github.com/anishathalye/knox-hsm) <br /> ★⁠ ⁠27 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Circuits and hardware security modules formally verified with Knox 🔐 |
 | [**chroniton**](https://github.com/anishathalye/chroniton) <br /> ★⁠ ⁠16 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | A tool for formally verifying constant-time software against hardware 🕰️ |
-| [**rtlv**](https://github.com/anishathalye/rtlv) <br /> ★⁠ ⁠19 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | Tools for reasoning about circuits in Rosette/Racket 🔌 |
+| [**rtlv**](https://github.com/anishathalye/rtlv) <br /> ★⁠ ⁠20 | ![Racket](https://img.shields.io/badge/racket-%233d5ea6.svg?style=for-the-badge&logo=racket&logoColor=white) | Tools for reasoning about circuits in Rosette/Racket 🔌 |
 | [**notary**](https://github.com/anishathalye/notary) <br /> ★⁠ ⁠30 | ![Verilog](https://img.shields.io/badge/verilog-%23f6624d.svg?style=for-the-badge&logoColor=white) | Notary: A Device for Secure Transaction Approval 📟 |
 
 <h3 align="center">Misc</h3>
 
 | | | |
 |---|---|---|
-| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5.8k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
-| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠351 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
+| [**missing⁠-⁠semester⁠/⁠missing⁠-⁠semester**](https://github.com/missing-semester/missing-semester) <br /> ★⁠ ⁠5.9k | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | The Missing Semester of Your CS Education 📚 |
+| [**missing⁠-⁠semester⁠/⁠videos**](https://github.com/missing-semester/videos) <br /> ★⁠ ⁠353 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lecture video processing scripts 🎥 |
 | [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠course**](https://github.com/dcai-course/dcai-course) <br /> ★⁠ ⁠108 | ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Introduction to Data-Centric AI, MIT IAP 2024 🤖 |
-| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠480 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
+| [**dcai⁠-⁠course⁠/⁠dcai⁠-⁠lab**](https://github.com/dcai-course/dcai-lab) <br /> ★⁠ ⁠481 | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻 |
 | [**bijection⁠/⁠sistine**](https://github.com/bijection/sistine) <br /> ★⁠ ⁠3.4k | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Turn a MacBook into a Touchscreen with $1 of Hardware |
 | [**dotfiles**](https://github.com/anishathalye/dotfiles) <br /> ★⁠ ⁠752 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish • powered by https://github.com/anishathalye/dotbot 💾 |
 | [**dotfiles⁠-⁠local**](https://github.com/anishathalye/dotfiles-local) <br /> ★⁠ ⁠82 | ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ~anish [local config] • powered by https://github.com/anishathalye/dotbot 🏠 |
@@ -67,8 +67,8 @@
 | [**bin2coe**](https://github.com/anishathalye/bin2coe) <br /> ★⁠ ⁠18 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A tool to convert binary files to COE files 💫 |
 | [**countdown**](https://github.com/anishathalye/countdown) <br /> ★⁠ ⁠6 | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | A simple countdown timer you can set as your homepage ⏰ |
 | [**unblock**](https://github.com/anishathalye/unblock) <br /> ★⁠ ⁠9 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | A tiny utility to make shell pipes behave as if they have unlimited buffering ♾ |
-| [**ai⁠-⁠agent⁠-⁠security⁠-⁠lecture**](https://github.com/anishathalye/ai-agent-security-lecture) <br /> ★⁠ ⁠28 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Guest lecture in MIT 6.566 on AI Agent Security |
+| [**ai⁠-⁠agent⁠-⁠security⁠-⁠lecture**](https://github.com/anishathalye/ai-agent-security-lecture) <br /> ★⁠ ⁠29 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Guest lecture in MIT 6.566 on AI Agent Security |
 | [**assets**](https://github.com/anishathalye/assets) <br /> ★⁠ ⁠5 |  | README assets for my GitHub projects 🎭 |
 | [**cleanlab⁠/⁠office⁠-⁠presence⁠-⁠dashboard**](https://github.com/cleanlab/office-presence-dashboard) <br /> ★⁠ ⁠9 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 100% vibe coded 🏄‍♂️ |
-| [**anishathalye**](https://github.com/anishathalye/anishathalye) <br /> ★⁠ ⁠16 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A self-updating GitHub profile 🐯 |
+| [**anishathalye**](https://github.com/anishathalye/anishathalye) <br /> ★⁠ ⁠17 | ![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | A self-updating GitHub profile 🐯 |
 
