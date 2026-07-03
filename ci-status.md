@@ -5,6 +5,7 @@
 | [dotbot](https://github.com/anishathalye/dotbot) | ![CI](https://github.com/anishathalye/dotbot/actions/workflows/ci.yml/badge.svg) ![Release](https://github.com/anishathalye/dotbot/actions/workflows/release.yml/badge.svg) |
 | [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) | ![CI](https://github.com/anishathalye/git-remote-dropbox/actions/workflows/ci.yml/badge.svg) |
 | [periscope](https://github.com/anishathalye/periscope) | ![CI](https://github.com/anishathalye/periscope/actions/workflows/ci.yml/badge.svg) ![Release](https://github.com/anishathalye/periscope/actions/workflows/release.yml/badge.svg) |
+| [lumen](https://github.com/anishathalye/lumen) | ![Release](https://github.com/anishathalye/lumen/actions/workflows/release.yml/badge.svg) |
 | [seashells](https://github.com/anishathalye/seashells) | ![CI](https://github.com/anishathalye/seashells/actions/workflows/ci.yml/badge.svg) |
 | [seashells-server](https://github.com/anishathalye/seashells-server) | ![CI](https://github.com/anishathalye/seashells-server/actions/workflows/ci.yml/badge.svg) |
 | [semlib](https://github.com/anishathalye/semlib) | ![CI](https://github.com/anishathalye/semlib/actions/workflows/ci.yml/badge.svg) ![Docs](https://github.com/anishathalye/semlib/actions/workflows/docs.yml/badge.svg) |
