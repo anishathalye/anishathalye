@@ -1,14 +1,14 @@
-date: '2026-07-24T10:21:44.300250+00:00'
+date: '2026-07-31T10:41:59.965750+00:00'
 user:
   name: anishathalye
-  followers: 4596
+  followers: 4604
   following: 276
-  repos: 72
+  repos: 73
   gists: 3
 repositories:
   dotbot:
-    stars: 7967
-    forks: 319
+    stars: 7974
+    forks: 318
     watching: 56
   git-remote-dropbox:
     stars: 3141
@@ -19,7 +19,7 @@ repositories:
     forks: 15
     watching: 5
   lumen:
-    stars: 2425
+    stars: 2424
     forks: 57
     watching: 42
   seashells:
@@ -43,7 +43,7 @@ repositories:
     forks: 8
     watching: 2
   neural-style:
-    stars: 5539
+    stars: 5540
     forks: 1488
     watching: 213
   obfuscated-gradients:
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11594
-    forks: 909
+    stars: 11611
+    forks: 911
     watching: 86
   porcupine:
-    stars: 1228
+    stars: 1230
     forks: 69
     watching: 22
   synox:
@@ -75,11 +75,11 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1266
+    stars: 1270
     forks: 312
     watching: 20
   auriga:
-    stars: 403
+    stars: 404
     forks: 38
     watching: 8
   ipr:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5934
-    forks: 1412
+    stars: 5956
+    forks: 1414
     watching: 46
   missing-semester/videos:
     stars: 354
@@ -119,12 +119,12 @@ repositories:
     forks: 14
     watching: 5
   dcai-course/dcai-lab:
-    stars: 484
-    forks: 163
+    stars: 481
+    forks: 162
     watching: 13
   bijection/sistine:
-    stars: 3423
-    forks: 199
+    stars: 3424
+    forks: 198
     watching: 73
   dotfiles:
     stars: 755
@@ -135,7 +135,7 @@ repositories:
     forks: 16
     watching: 2
   proof-html:
-    stars: 128
+    stars: 132
     forks: 39
     watching: 2
   micro-wwvb:
@@ -207,7 +207,7 @@ repositories:
     forks: 35
     watching: 35
   cleanlab/label-errors:
-    stars: 188
+    stars: 189
     forks: 11
     watching: 5
   cleanlab/examples:
@@ -219,7 +219,7 @@ repositories:
     forks: 82
     watching: 16
   hacker-tools/hacker-tools.github.io:
-    stars: 407
+    stars: 408
     forks: 38
     watching: 21
   mathematics-of-deep-learning:
@@ -227,12 +227,12 @@ repositories:
     forks: 25
     watching: 9
   Handshake-AI-Research/bankertoolbench:
-    stars: 36
+    stars: 38
     forks: 2
     watching: 0
   Handshake-AI-Research/gandalf-the-grader:
-    stars: 50
-    forks: 2
+    stars: 51
+    forks: 4
     watching: 0
   Handshake-AI-Research/rle-pkg:
     stars: 5
