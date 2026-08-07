@@ -1,9 +1,9 @@
-date: '2026-08-07T09:02:28.015658+00:00'
+date: '2026-08-07T18:01:54.215240+00:00'
 user:
   name: anishathalye
   followers: 4608
   following: 277
-  repos: 73
+  repos: 74
   gists: 3
 repositories:
   dotbot:
@@ -63,7 +63,7 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11615
+    stars: 11616
     forks: 912
     watching: 86
   porcupine:
@@ -142,6 +142,14 @@ repositories:
     stars: 27
     forks: 4
     watching: 3
+  Handshake-AI-Research/gandalf-the-grader:
+    stars: 51
+    forks: 6
+    watching: 0
+  Handshake-AI-Research/bankertoolbench:
+    stars: 38
+    forks: 2
+    watching: 0
   hubot-group:
     stars: 25
     forks: 12
@@ -226,14 +234,6 @@ repositories:
     stars: 75
     forks: 25
     watching: 9
-  Handshake-AI-Research/bankertoolbench:
-    stars: 38
-    forks: 2
-    watching: 0
-  Handshake-AI-Research/gandalf-the-grader:
-    stars: 51
-    forks: 5
-    watching: 0
   Handshake-AI-Research/rle-pkg:
     stars: 5
     forks: 0
