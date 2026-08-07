@@ -1,25 +1,25 @@
-date: '2026-07-31T10:41:59.965750+00:00'
+date: '2026-08-07T09:02:28.015658+00:00'
 user:
   name: anishathalye
-  followers: 4604
-  following: 276
+  followers: 4608
+  following: 277
   repos: 73
   gists: 3
 repositories:
   dotbot:
-    stars: 7974
-    forks: 318
+    stars: 7981
+    forks: 319
     watching: 56
   git-remote-dropbox:
-    stars: 3141
+    stars: 3143
     forks: 155
     watching: 62
   periscope:
-    stars: 421
+    stars: 422
     forks: 15
     watching: 5
   lumen:
-    stars: 2424
+    stars: 2423
     forks: 57
     watching: 42
   seashells:
@@ -35,7 +35,7 @@ repositories:
     forks: 266
     watching: 13
   offix:
-    stars: 193
+    stars: 192
     forks: 27
     watching: 13
   semlib:
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11611
-    forks: 911
+    stars: 11615
+    forks: 912
     watching: 86
   porcupine:
-    stars: 1230
+    stars: 1232
     forks: 69
     watching: 22
   synox:
@@ -75,11 +75,11 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1270
-    forks: 312
+    stars: 1273
+    forks: 313
     watching: 20
   auriga:
-    stars: 404
+    stars: 405
     forks: 38
     watching: 8
   ipr:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 5956
-    forks: 1414
+    stars: 5963
+    forks: 1416
     watching: 46
   missing-semester/videos:
     stars: 354
@@ -127,7 +127,7 @@ repositories:
     forks: 198
     watching: 73
   dotfiles:
-    stars: 755
+    stars: 756
     forks: 268
     watching: 15
   dotfiles-local:
@@ -175,7 +175,7 @@ repositories:
     forks: 0
     watching: 1
   cleanlab/office-presence-dashboard:
-    stars: 9
+    stars: 10
     forks: 0
     watching: 2
   anishathalye:
@@ -183,8 +183,8 @@ repositories:
     forks: 4
     watching: 1
   dotfiles_template:
-    stars: 205
-    forks: 215
+    stars: 206
+    forks: 214
     watching: 5
   robust-ml/robust-ml.github.io:
     stars: 52
@@ -215,7 +215,7 @@ repositories:
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1194
+    stars: 1195
     forks: 82
     watching: 16
   hacker-tools/hacker-tools.github.io:
@@ -232,7 +232,7 @@ repositories:
     watching: 0
   Handshake-AI-Research/gandalf-the-grader:
     stars: 51
-    forks: 4
+    forks: 5
     watching: 0
   Handshake-AI-Research/rle-pkg:
     stars: 5
