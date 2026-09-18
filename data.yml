@@ -1,13 +1,13 @@
-date: '2026-09-11T12:41:25.235486+00:00'
+date: '2026-09-18T12:48:08.444451+00:00'
 user:
   name: anishathalye
-  followers: 4639
+  followers: 4643
   following: 279
   repos: 74
   gists: 3
 repositories:
   dotbot:
-    stars: 8002
+    stars: 8004
     forks: 320
     watching: 57
   git-remote-dropbox:
@@ -31,7 +31,7 @@ repositories:
     forks: 9
     watching: 1
   gavel:
-    stars: 487
+    stars: 489
     forks: 266
     watching: 13
   offix:
@@ -44,10 +44,10 @@ repositories:
     watching: 2
   neural-style:
     stars: 5549
-    forks: 1487
+    forks: 1485
     watching: 214
   obfuscated-gradients:
-    stars: 910
+    stars: 911
     forks: 171
     watching: 45
   neural-hash-collider:
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11650
-    forks: 921
+    stars: 11658
+    forks: 918
     watching: 88
   porcupine:
-    stars: 1246
+    stars: 1249
     forks: 71
     watching: 22
   synox:
@@ -76,7 +76,7 @@ repositories:
     watching: 1
   gemini:
     stars: 1276
-    forks: 313
+    forks: 314
     watching: 20
   auriga:
     stars: 405
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 6042
-    forks: 1425
+    stars: 6057
+    forks: 1428
     watching: 47
   missing-semester/videos:
     stars: 355
@@ -120,14 +120,14 @@ repositories:
     watching: 5
   dcai-course/dcai-lab:
     stars: 486
-    forks: 162
+    forks: 163
     watching: 13
   bijection/sistine:
-    stars: 3425
+    stars: 3428
     forks: 198
     watching: 73
   dotfiles:
-    stars: 756
+    stars: 755
     forks: 265
     watching: 15
   dotfiles-local:
@@ -135,7 +135,7 @@ repositories:
     forks: 16
     watching: 2
   proof-html:
-    stars: 135
+    stars: 136
     forks: 40
     watching: 2
   micro-wwvb:
@@ -143,8 +143,8 @@ repositories:
     forks: 4
     watching: 3
   Handshake-AI-Research/gandalf-the-grader:
-    stars: 54
-    forks: 8
+    stars: 55
+    forks: 10
     watching: 0
   Handshake-AI-Research/bankertoolbench:
     stars: 47
@@ -175,7 +175,7 @@ repositories:
     forks: 0
     watching: 1
   ai-agent-security-lecture:
-    stars: 31
+    stars: 32
     forks: 1
     watching: 0
   assets:
@@ -227,7 +227,7 @@ repositories:
     forks: 83
     watching: 16
   hacker-tools/hacker-tools.github.io:
-    stars: 408
+    stars: 409
     forks: 38
     watching: 21
   mathematics-of-deep-learning:
