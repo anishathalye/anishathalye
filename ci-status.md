@@ -30,9 +30,10 @@
 | [dotfiles-local](https://github.com/anishathalye/dotfiles-local) | ![CI](https://github.com/anishathalye/dotfiles-local/actions/workflows/build.yml/badge.svg) ![CI](https://github.com/anishathalye/dotfiles-local/actions/workflows/ci.yml/badge.svg) |
 | [proof-html](https://github.com/anishathalye/proof-html) | ![CI](https://github.com/anishathalye/proof-html/actions/workflows/ci.yml/badge.svg) ![Docker Push](https://github.com/anishathalye/proof-html/actions/workflows/docker.yml/badge.svg) |
 | [Handshake-AI-Research/gandalf-the-grader](https://github.com/Handshake-AI-Research/gandalf-the-grader) | ![CI](https://github.com/Handshake-AI-Research/gandalf-the-grader/actions/workflows/ci.yml/badge.svg) ![Publish to PyPI](https://github.com/Handshake-AI-Research/gandalf-the-grader/actions/workflows/publish.yml/badge.svg) |
+| [cleanlab/office-presence-dashboard](https://github.com/cleanlab/office-presence-dashboard) | ![CI](https://github.com/cleanlab/office-presence-dashboard/actions/workflows/ci.yml/badge.svg) |
+| [optimal-trace](https://github.com/anishathalye/optimal-trace) | ![CI](https://github.com/anishathalye/optimal-trace/actions/workflows/ci.yml/badge.svg) ![Deploy](https://github.com/anishathalye/optimal-trace/actions/workflows/deploy.yml/badge.svg) |
 | [bin2coe](https://github.com/anishathalye/bin2coe) | ![CI](https://github.com/anishathalye/bin2coe/actions/workflows/ci.yml/badge.svg) |
 | [unblock](https://github.com/anishathalye/unblock) | ![CI](https://github.com/anishathalye/unblock/actions/workflows/ci.yml/badge.svg) |
-| [cleanlab/office-presence-dashboard](https://github.com/cleanlab/office-presence-dashboard) | ![CI](https://github.com/cleanlab/office-presence-dashboard/actions/workflows/ci.yml/badge.svg) |
 | [anishathalye](https://github.com/anishathalye/anishathalye) | ![CI](https://github.com/anishathalye/anishathalye/actions/workflows/ci.yml/badge.svg) |
 | [robust-ml/robust-ml.github.io](https://github.com/robust-ml/robust-ml.github.io) | ![CI](https://github.com/robust-ml/robust-ml.github.io/actions/workflows/build.yml/badge.svg) |
 | [cleanlab/examples](https://github.com/cleanlab/examples) | ![CI](https://github.com/cleanlab/examples/actions/workflows/ci.yml/badge.svg) ![Link Checker](https://github.com/cleanlab/examples/actions/workflows/links.yml/badge.svg) |

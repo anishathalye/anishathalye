@@ -1,13 +1,13 @@
-date: '2026-09-18T12:48:08.444451+00:00'
+date: '2026-09-20T14:58:41.664654+00:00'
 user:
   name: anishathalye
-  followers: 4643
+  followers: 4642
   following: 279
   repos: 74
   gists: 3
 repositories:
   dotbot:
-    stars: 8004
+    stars: 8006
     forks: 320
     watching: 57
   git-remote-dropbox:
@@ -44,7 +44,7 @@ repositories:
     watching: 2
   neural-style:
     stars: 5549
-    forks: 1485
+    forks: 1484
     watching: 214
   obfuscated-gradients:
     stars: 911
@@ -63,8 +63,8 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11658
-    forks: 918
+    stars: 11665
+    forks: 919
     watching: 88
   porcupine:
     stars: 1249
@@ -75,7 +75,7 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1276
+    stars: 1277
     forks: 314
     watching: 20
   auriga:
@@ -107,7 +107,7 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 6057
+    stars: 6066
     forks: 1428
     watching: 47
   missing-semester/videos:
@@ -123,7 +123,7 @@ repositories:
     forks: 163
     watching: 13
   bijection/sistine:
-    stars: 3428
+    stars: 3427
     forks: 198
     watching: 73
   dotfiles:
@@ -144,10 +144,10 @@ repositories:
     watching: 3
   Handshake-AI-Research/gandalf-the-grader:
     stars: 55
-    forks: 10
+    forks: 11
     watching: 0
   Handshake-AI-Research/bankertoolbench:
-    stars: 47
+    stars: 48
     forks: 4
     watching: 0
   hubot-group:
@@ -162,6 +162,14 @@ repositories:
     stars: 11
     forks: 2
     watching: 3
+  cleanlab/office-presence-dashboard:
+    stars: 10
+    forks: 0
+    watching: 2
+  optimal-trace:
+    stars: 1
+    forks: 0
+    watching: 0
   bin2coe:
     stars: 18
     forks: 1
@@ -176,16 +184,12 @@ repositories:
     watching: 1
   ai-agent-security-lecture:
     stars: 32
-    forks: 1
+    forks: 2
     watching: 0
   assets:
     stars: 5
     forks: 0
     watching: 1
-  cleanlab/office-presence-dashboard:
-    stars: 10
-    forks: 0
-    watching: 2
   anishathalye:
     stars: 17
     forks: 4
@@ -223,8 +227,8 @@ repositories:
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1202
-    forks: 83
+    stars: 1201
+    forks: 84
     watching: 16
   hacker-tools/hacker-tools.github.io:
     stars: 409
