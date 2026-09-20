@@ -54,12 +54,13 @@
     - hubot-group
     - hubot-shortcut
     - hubot-conf
+    - cleanlab/office-presence-dashboard
+    - optimal-trace
     - bin2coe
     - countdown
     - unblock
     - ai-agent-security-lecture
     - assets
-    - cleanlab/office-presence-dashboard
     - anishathalye
 
 - name: Hidden
