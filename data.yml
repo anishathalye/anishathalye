@@ -1,25 +1,25 @@
-date: '2026-09-20T14:58:41.664654+00:00'
+date: '2026-09-25T13:24:49.920678+00:00'
 user:
   name: anishathalye
-  followers: 4642
+  followers: 4647
   following: 279
   repos: 74
   gists: 3
 repositories:
   dotbot:
-    stars: 8006
+    stars: 8007
     forks: 320
     watching: 57
   git-remote-dropbox:
-    stars: 3139
-    forks: 155
+    stars: 3136
+    forks: 154
     watching: 62
   periscope:
-    stars: 429
+    stars: 430
     forks: 16
     watching: 5
   lumen:
-    stars: 2427
+    stars: 2426
     forks: 57
     watching: 42
   seashells:
@@ -43,11 +43,11 @@ repositories:
     forks: 8
     watching: 2
   neural-style:
-    stars: 5549
+    stars: 5548
     forks: 1484
     watching: 214
   obfuscated-gradients:
-    stars: 911
+    stars: 910
     forks: 171
     watching: 45
   neural-hash-collider:
@@ -63,11 +63,11 @@ repositories:
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11665
-    forks: 919
+    stars: 11673
+    forks: 920
     watching: 88
   porcupine:
-    stars: 1249
+    stars: 1251
     forks: 71
     watching: 22
   synox:
@@ -75,7 +75,7 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1277
+    stars: 1279
     forks: 314
     watching: 20
   auriga:
@@ -99,7 +99,7 @@ repositories:
     forks: 0
     watching: 1
   rtlv:
-    stars: 19
+    stars: 20
     forks: 4
     watching: 2
   notary:
@@ -107,8 +107,8 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 6066
-    forks: 1428
+    stars: 6073
+    forks: 1427
     watching: 47
   missing-semester/videos:
     stars: 355
@@ -119,11 +119,11 @@ repositories:
     forks: 14
     watching: 5
   dcai-course/dcai-lab:
-    stars: 486
+    stars: 487
     forks: 163
     watching: 13
   bijection/sistine:
-    stars: 3427
+    stars: 3430
     forks: 198
     watching: 73
   dotfiles:
@@ -143,7 +143,7 @@ repositories:
     forks: 4
     watching: 3
   Handshake-AI-Research/gandalf-the-grader:
-    stars: 55
+    stars: 56
     forks: 11
     watching: 0
   Handshake-AI-Research/bankertoolbench:
@@ -167,7 +167,7 @@ repositories:
     forks: 0
     watching: 2
   optimal-trace:
-    stars: 1
+    stars: 4
     forks: 0
     watching: 0
   bin2coe:
@@ -227,7 +227,7 @@ repositories:
     forks: 28
     watching: 6
   cleanlab/cleanvision:
-    stars: 1201
+    stars: 1203
     forks: 84
     watching: 16
   hacker-tools/hacker-tools.github.io:
