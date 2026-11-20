@@ -1,33 +1,33 @@
-date: '2026-11-13T15:58:56.180185+00:00'
+date: '2026-11-20T16:48:23.338732+00:00'
 user:
   name: anishathalye
-  followers: 4682
+  followers: 4688
   following: 279
   repos: 74
   gists: 3
 repositories:
   dotbot:
-    stars: 8037
-    forks: 323
-    watching: 56
+    stars: 8041
+    forks: 322
+    watching: 57
   git-remote-dropbox:
-    stars: 3137
+    stars: 3136
     forks: 154
     watching: 62
   periscope:
-    stars: 432
+    stars: 433
     forks: 17
     watching: 5
   lumen:
-    stars: 2424
+    stars: 2423
     forks: 56
     watching: 42
   seashells:
-    stars: 729
+    stars: 730
     forks: 21
     watching: 8
   seashells-server:
-    stars: 71
+    stars: 72
     forks: 9
     watching: 1
   gavel:
@@ -35,7 +35,7 @@ repositories:
     forks: 269
     watching: 13
   offix:
-    stars: 189
+    stars: 190
     forks: 27
     watching: 13
   semlib:
@@ -47,11 +47,11 @@ repositories:
     forks: 1478
     watching: 212
   obfuscated-gradients:
-    stars: 912
+    stars: 911
     forks: 172
     watching: 45
   neural-hash-collider:
-    stars: 676
+    stars: 677
     forks: 34
     watching: 9
   ribosome:
@@ -59,15 +59,15 @@ repositories:
     forks: 11
     watching: 4
   imagenet-simple-labels:
-    stars: 149
+    stars: 148
     forks: 52
     watching: 3
   cleanlab/cleanlab:
-    stars: 11741
-    forks: 943
+    stars: 11754
+    forks: 945
     watching: 85
   porcupine:
-    stars: 1277
+    stars: 1278
     forks: 71
     watching: 23
   synox:
@@ -75,11 +75,11 @@ repositories:
     forks: 0
     watching: 1
   gemini:
-    stars: 1282
+    stars: 1286
     forks: 323
     watching: 19
   auriga:
-    stars: 407
+    stars: 408
     forks: 38
     watching: 8
   ipr:
@@ -95,7 +95,7 @@ repositories:
     forks: 2
     watching: 2
   chroniton:
-    stars: 17
+    stars: 18
     forks: 0
     watching: 1
   rtlv:
@@ -107,23 +107,23 @@ repositories:
     forks: 6
     watching: 4
   missing-semester/missing-semester:
-    stars: 6192
-    forks: 1517
+    stars: 6220
+    forks: 1523
     watching: 45
   missing-semester/videos:
-    stars: 359
+    stars: 358
     forks: 35
     watching: 9
   dcai-course/dcai-course:
-    stars: 109
+    stars: 110
     forks: 14
     watching: 5
   dcai-course/dcai-lab:
-    stars: 488
+    stars: 489
     forks: 163
     watching: 13
   bijection/sistine:
-    stars: 3431
+    stars: 3430
     forks: 199
     watching: 73
   dotfiles:
@@ -144,7 +144,7 @@ repositories:
     watching: 3
   Handshake-AI-Research/gandalf-the-grader:
     stars: 62
-    forks: 13
+    forks: 14
     watching: 0
   Handshake-AI-Research/bankertoolbench:
     stars: 53
@@ -228,7 +228,7 @@ repositories:
     watching: 6
   cleanlab/cleanvision:
     stars: 1213
-    forks: 86
+    forks: 87
     watching: 16
   hacker-tools/hacker-tools.github.io:
     stars: 411
